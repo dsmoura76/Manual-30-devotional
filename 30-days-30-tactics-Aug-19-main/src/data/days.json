@@ -1,0 +1,954 @@
+[
+  {
+    "n": 1,
+    "tatica": "Kamae",
+    "leitura": "ka-má-e · a guarda",
+    "lema": "A postura vem antes do golpe",
+    "legenda": "Kamae (A Guarda) × Salmos 93.1: A lâmina embainhada e a postura firme revelam que a segurança não está na força humana, mas na Rocha inabalável de Deus.",
+    "escolhas": [
+      {
+        "titulo": "Está calmo agora",
+        "sub": "Nada urgente. Vim mais por curiosidade.",
+        "resposta": "Você está no lugar mais perigoso do manual: o do falso descanso. Não é pecado estar em paz — é pecado confundir paz com dispensa. Kamae existe justamente para os dias calmos. Hoje sua tarefa é assumir postura ANTES de precisar dela. É mais barato agora."
+      },
+      {
+        "titulo": "Está no meio de algo",
+        "sub": "Tem uma luta acontecendo agora mesmo.",
+        "resposta": "Então você está no ponto onde Kamae funciona melhor. Guarda não é para quem já venceu — é para quem está de pé no meio. E note: você ainda está de pé. Isso já é postura. Hoje não vamos pedir força nova, vamos nomear a que já existe."
+      },
+      {
+        "titulo": "Está no chão",
+        "sub": "Cansado, quebrado, sem forças pra levantar.",
+        "resposta": "Você não precisa de uma tática hoje. Precisa de um lugar pra apoiar. Salmos 93.1 não começa com o que você faz — começa com o que Deus já é. Se você não consegue nem levantar a guarda, deixe o versículo carregar por você. Leia só ele hoje. Pule o resto. Sério."
+      }
+    ],
+    "extras": [],
+    "marcha": [
+      {
+        "titulo": "Ao acordar · 60 segundos",
+        "texto": "Antes de pegar o celular, fale em voz alta: “O Senhor reina.” Em voz alta mesmo. O corpo aprende o que a boca repete."
+      },
+      {
+        "titulo": "Durante o dia · escreva o nome",
+        "texto": "Nomeie a batalha. Não “estou mal” — o nome exato: a pessoa, a dívida, o vício, o medo. Coisa sem nome não se enfrenta."
+      },
+      {
+        "titulo": "À noite · a guarda de amanhã",
+        "texto": "Decida hoje uma coisa que você vai fazer amanhã de manhã, mesmo sem vontade. Escreva. Postura é decisão tomada antes da emoção chegar."
+      }
+    ],
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>kamae</em> — as guardas do kenjutsu clássico (chūdan, jōdan, gedan). <a href=\"https://en.wikipedia.org/wiki/Kamae\">Wikipedia</a> · <a href=\"https://www.kendo-guide.com/kamae.html\">Kendo Guide</a></li><li><strong>Passagens:</strong> Salmos 93.1 e Salmos 46.1-2, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> a grafia exata dos versículos deve ser conferida contra edição oficial da NVI antes da impressão.</li></ul>",
+    "reconhecimento": "<p>Tem um tipo de barulho que não acorda a casa inteira — só você. Uma conta. Um exame. Uma mensagem que não chegou. Um pensamento que volta sempre no mesmo horário.</p>\n<p>Você não escolhe se a noite vai rugir. Escolhe só uma coisa: <strong>em que posição ela vai te encontrar.</strong></p>\n<p class=\"pergunta\">Se a batalha começasse agora, ela te acharia de pé ou te acharia dormindo?</p>",
+    "taticaHtml": "<p><strong>Kamae</strong> é a palavra japonesa para <em>guarda</em> — a posição do corpo antes que qualquer coisa aconteça. No kenjutsu clássico existem cinco guardas com nome próprio; três delas você reconhece na hora: <em>chūdan</em>, a espada na altura do peito apontada para os olhos do adversário; <em>jōdan</em>, a espada erguida acima da cabeça, pronta para descer; <em>gedan</em>, a ponta baixa, na altura do joelho. Um mestre avalia o nível de um espadachim <strong>antes do primeiro movimento</strong>, só de olhar como ele está parado.</p>\n<p>Explicando de outro jeito: no futebol, o goleiro de pé reto toma o gol que o goleiro agachado defende. Não porque um é mais rápido. Porque um estava em posição e o outro não.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\">\n<p><strong>Não é rigidez.</strong> Guarda travada é guarda quebrada. Quem fica duro esperando o golpe não consegue se mover quando ele vem. Kamae é <em>pronto</em>, não <em>tenso</em>.</p>\n<p><strong>Não é viver em estado de alerta.</strong> Se o seu coração está acelerado o dia inteiro esperando desgraça, isso não é postura espiritual — pode ser ansiedade, e ansiedade se trata, não se glorifica. Procure ajuda de verdade se for o seu caso: um pastor, um médico, um psicólogo. Isso também é obediência.</p>\n<p><strong>Não é desconfiar de todo mundo.</strong> Estar preparado não é virar uma pessoa fechada e amarga. A guarda protege o coração; não serve para trancá-lo.</p>\n</div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\">\n<p>“O Senhor reina! Vestiu-se de majestade; o Senhor vestiu-se de majestade e armou-se de poder! O mundo está firme e não se abalará.”</p>\n<footer>Salmos 93.1 · NVI</footer>\n</figure>\n<figure class=\"versiculo\">\n<p>“Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade. Por isso não temeremos, ainda que a terra trema e os montes desabem no coração do mar.”</p>\n<footer>Salmos 46.1-2 · NVI</footer>\n</figure>\n<p>Repare no que o Salmo 46 <strong>não</strong> promete: ele não diz que a terra vai parar de tremer. Diz que a terra treme, os montes caem dentro do mar — e mesmo assim não há o que temer. A promessa não é céu limpo. É Presença no meio do desabamento.</p>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\">\n<p>A guarda do samurai depende do próprio samurai. Se o joelho falha, a guarda cai. Salmos 93.1 inverte isso: a frase não é sobre a sua postura — é sobre o <strong>trono</strong>. “O Senhor reina” já estava valendo antes de você acordar hoje, e vai continuar valendo se hoje você não conseguir levantar.</p>\n<p>Então a guarda de hoje não é para você <em>conquistar</em> alguma coisa. É para você se lembrar, com o corpo, de que não está sozinho de pé. Você não sustenta o mundo — “o mundo está firme e não se abalará” porque Ele reina. Sua postura só te coloca no lugar de quem sabe disso.</p>\n</div>",
+    "marchaIntro": "<p>Três ações. Curtas de propósito. Marque conforme fizer.</p>",
+    "cadernoPergunta": "Qual guarda você baixou primeiro — e há quanto tempo ela está no chão?",
+    "placeholder": "Comecei a baixar a guarda quando…",
+    "oracao": "Senhor, hoje eu não venho pedir que a noite pare de rugir. Venho pedir que Tu me encontres de pé. Eu entrego a batalha que tenho carregado sozinho nas minhas próprias forças. Tu reinas sobre isso também. Eu assumo posição diante de Ti — não porque sou forte, mas porque Tu já venceste. Amém."
+  },
+  {
+    "n": 2,
+    "tatica": "Metsuke",
+    "leitura": "me-tsu-ke · onde os olhos param",
+    "lema": "Você afunda onde você olha",
+    "legenda": "Metsuke (O Olhar da Montanha) × Mateus 14.30-31: Fixar os olhos em Cristo sobre as águas em vez de fitar o vento tempestuoso que causa o afundamento.",
+    "escolhas": [],
+    "extras": [
+      {
+        "titulo": "Teste do olhar",
+        "html": "<p>Você está fora do barco, agora. Clique no lugar onde seus olhos realmente estão hoje.</p>\n<div class=\"olhar\">\n<svg aria-label=\"Escolha onde você está olhando\" role=\"group\" viewbox=\"0 0 900 300\">\n<rect fill=\"#12293F\" height=\"300\" width=\"900\"></rect>\n<path d=\"M0 208 Q112 174 225 208 T450 208 T675 208 T900 208 L900 300 L0 300 Z\" fill=\"#0C1E30\"></path>\n<g aria-label=\"O vento e as ondas\" class=\"hit\" data-olhar=\"vento\" role=\"button\" tabindex=\"0\">\n<circle class=\"halo\" cx=\"180\" cy=\"228\" fill=\"#F80207\" opacity=\"0\" r=\"70\"></circle>\n<path d=\"M100 232 q28 -20 56 0 t56 0\" fill=\"none\" stroke=\"#8AA6BE\" stroke-linecap=\"round\" stroke-width=\"7\"></path>\n<path d=\"M112 262 q28 -20 56 0 t56 0\" fill=\"none\" stroke=\"#63809A\" stroke-linecap=\"round\" stroke-width=\"7\"></path>\n<text fill=\"#9DB5C9\" font-family=\"Consolas,monospace\" font-size=\"15\" letter-spacing=\"3\" text-anchor=\"middle\" x=\"180\" y=\"120\">O VENTO</text>\n</g>\n<g aria-label=\"Seus próprios pés\" class=\"hit\" data-olhar=\"pes\" role=\"button\" tabindex=\"0\">\n<circle class=\"halo\" cx=\"450\" cy=\"228\" fill=\"#F80207\" opacity=\"0\" r=\"70\"></circle>\n<path d=\"M430 248 q-12 -16 4 -22 l16 -6 q14 -4 16 10 l2 18 z\" fill=\"#9DB5C9\"></path>\n<path d=\"M462 254 q-12 -16 4 -22 l16 -6 q14 -4 16 10 l2 18 z\" fill=\"#71889E\"></path>\n<text fill=\"#9DB5C9\" font-family=\"Consolas,monospace\" font-size=\"15\" letter-spacing=\"3\" text-anchor=\"middle\" x=\"450\" y=\"120\">MEUS PÉS</text>\n</g>\n<g aria-label=\"Ele\" class=\"hit\" data-olhar=\"ele\" role=\"button\" tabindex=\"0\">\n<circle class=\"halo\" cx=\"720\" cy=\"222\" fill=\"#F80207\" opacity=\"0\" r=\"70\"></circle>\n<circle cx=\"720\" cy=\"200\" fill=\"#F2E7CC\" opacity=\"0.16\" r=\"46\"></circle>\n<path d=\"M706 246 q6 -12 8 -34 l-2 -22 q-8 -8 -4 -16 l12 -6 q12 6 8 16 l-2 22 q2 22 8 34 z\" fill=\"#F2E7CC\" opacity=\"0.95\"></path>\n<text fill=\"#EBDFC4\" font-family=\"Consolas,monospace\" font-size=\"15\" letter-spacing=\"3\" text-anchor=\"middle\" x=\"720\" y=\"120\">ELE</text>\n</g>\n</svg>\n</div>\n<div aria-live=\"polite\" class=\"resposta\" id=\"r2\" role=\"status\"></div>"
+      }
+    ],
+    "marcha": [
+      {
+        "titulo": "Manhã · troque a primeira imagem",
+        "texto": "Nos primeiros 5 minutos acordado, leia Hebreus 12.2 antes de abrir qualquer rede social. A primeira coisa que o olho vê define o padrão do dia."
+      },
+      {
+        "titulo": "Tarde · o corte de 24 horas",
+        "texto": "Escolha UMA fonte de vento — um perfil, um grupo, uma notícia, uma conversa. Fique 24 horas sem olhar. Só uma. Anote o que muda no seu corpo."
+      },
+      {
+        "titulo": "Noite · a montanha distante",
+        "texto": "Escreva uma promessa de Deus que ainda não se cumpriu na sua vida. Ela é a sua montanha. Olhe pra ela quando o vento voltar."
+      }
+    ],
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>metsuke</em> — onde o olhar se fixa no combate; Miyamoto Musashi, <em>Livro dos Cinco Anéis</em>. <a href=\"https://www.kendo-guide.com/kendo_metsuke.html\">Kendo Guide</a></li><li><strong>Passagens:</strong> Mateus 14.29-31 e Isaías 43.2, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> a grafia exata dos versículos deve ser conferida contra edição oficial da NVI antes da impressão.</li></ul>",
+    "reconhecimento": "<p>Pedro andou sobre a água. Esse é o detalhe que quase todo mundo esquece na pressa de falar do afundamento: <strong>ele andou.</strong> Deu passos. Fora do barco. No meio de uma tempestade.</p>\n<p>E aí ele olhou para o vento.</p>\n<p class=\"pergunta\">O que mudou entre o passo e o afundamento — a tempestade ou o olhar?</p>",
+    "taticaHtml": "<p><strong>Metsuke</strong> é a disciplina do olhar: onde o espadachim fixa os olhos durante o combate. Miyamoto Musashi ensina o <em>enzan no metsuke</em> — “o olhar da montanha distante”. Em vez de travar a vista na ponta da espada do adversário, você olha para o conjunto do corpo dele, como quem contempla uma montanha longe. Vê tudo, não se prende a nada. Musashi chama isso de olhar duplo: <em>percepção e visão</em> — ver de longe o que está perto, e de perto o que está longe.</p>\n<p>Por que isso importa? Porque o olho puxa o corpo. Quem encara a lâmina reage à lâmina — e a lâmina é justamente a isca. Motociclista aprende a mesma coisa e ela salva vidas: <em>você vai para onde você olha.</em> Fixe o olho no buraco e você acerta o buraco.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\">\n<p><strong>Não é fingir que a tempestade não existe.</strong> O texto não diz que Pedro imaginou o vento. O vento era real e forte. Fé não é negar o problema, é decidir quem é maior que ele.</p>\n<p><strong>Não é “pensamento positivo”.</strong> Otimismo é olhar para uma expectativa. Fé é olhar para uma <em>pessoa</em>. São coisas diferentes, e só uma delas te segura quando a expectativa não se cumpre.</p>\n<p><strong>Não é culpa de quem afundou.</strong> Cuidado com essa: “você afundou porque teve pouca fé” é uma frase que já machucou muita gente na igreja. Repare no que Jesus faz antes de qualquer repreensão — Ele <em>estende a mão</em>. A correção vem depois do resgate, nunca no lugar dele.</p>\n</div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\">\n<p>“Então Pedro saiu do barco, andou sobre a água e foi na direção de Jesus. Mas, quando reparou no vento, ficou com medo e, começando a afundar, gritou: ‘Senhor, salva-me!’ Imediatamente Jesus estendeu a mão e o segurou.”</p>\n<footer>Mateus 14.29-31 · NVI</footer>\n</figure>\n<figure class=\"versiculo\">\n<p>“Quando você atravessar as águas, eu estarei com você; quando atravessar os rios, eles não o encobrirão.”</p>\n<footer>Isaías 43.2 · NVI</footer>\n</figure>\n<p>Três verbos em sequência, e a ordem é impiedosa: <strong>reparou</strong> no vento → <strong>ficou</strong> com medo → <strong>começou</strong> a afundar. O medo não veio antes do olhar. Veio depois.</p>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\">\n<p>Leia Isaías 43.2 devagar, porque quase todo mundo lê errado. Não está escrito “eu vou secar as águas”. Está escrito <strong>“quando você atravessar”</strong>. A água continua lá. Você entra nela. E a promessa não é que ela suma — é que ela <em>não vai te encobrir</em>, porque Ele está dentro dela com você.</p>\n<p>Foi assim com Pedro: o mar não se abriu, o vento não parou, e ele andou. O olho humano não aguenta vazio — se você não escolher para onde olhar, o medo escolhe por você. A tática de hoje é simples e difícil: escolher, de propósito, olhar para Quem está atravessando junto, enquanto a água ainda bate na canela.</p>\n</div>",
+    "marchaIntro": "",
+    "cadernoPergunta": "Para onde seus olhos vão sozinhos quando você não está prestando atenção?",
+    "placeholder": "Quando eu não penso, meus olhos vão para…",
+    "oracao": "Jesus, eu reparei no vento de novo. Eu confesso que passei mais tempo olhando para as circunstâncias e temores do que para Ti. Eu não peço que o mar acalme hoje — peço que Tu segures minha mão com firmeza, como seguraste a de Pedro. Fixa os meus olhos em Ti. Amém."
+  },
+  {
+    "n": 3,
+    "tatica": "Zanshin",
+    "leitura": "zan-shin · a atenção que fica",
+    "lema": "A luta não acaba quando o golpe acerta",
+    "legenda": "Zanshin (A Atenção Contínua) × Mateus 26.41: Manter a guarda e a oração ativas mesmo na calmaria para não ser surpreendido na falsa segurança.",
+    "escolhas": [],
+    "extras": [],
+    "marcha": [
+      {
+        "titulo": "Manhã · o que você largou",
+        "texto": "Escreva uma coisa que você fazia quando estava sofrendo e parou de fazer quando melhorou. Oração, leitura, uma conversa. Retome hoje."
+      },
+      {
+        "titulo": "Tarde · o cuidado sem urgência",
+        "texto": "Faça uma coisa pela sua fé que não seja resposta a nenhum problema. Não porque precisa. Porque quer."
+      },
+      {
+        "titulo": "Noite · a guarda de dois minutos",
+        "texto": "Antes de dormir, dois minutos em silêncio. Sem pedir nada. Só ficar."
+      }
+    ],
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>zanshin</em> — \"a mente que permanece\" depois do golpe. <a href=\"https://en.wikipedia.org/wiki/Zanshin\">Wikipedia</a> · <a href=\"https://kendoinfo.net/tag/zanshin/\">kendoinfo.net</a></li><li><strong>Passagens:</strong> Mateus 26.41 e 1 Coríntios 10.12, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> a grafia exata dos versículos deve ser conferida contra edição oficial da NVI antes da impressão.</li></ul>",
+    "reconhecimento": "<p>O exame voltou limpo. A conta foi paga. A briga passou. E aí você respirou — e junto com o alívio, largou tudo o que estava te segurando de pé.</p><p>Quase ninguém cai na tempestade. Cai depois, na calmaria, quando parou de achar que precisava de Deus.</p>\n<p class=\"pergunta\">O que você abandonou no dia em que a pressão passou?</p>",
+    "taticaHtml": "<p><strong>Zanshin</strong> é a atenção que permanece <em>depois</em> do golpe. No kenjutsu, a forma não termina quando a lâmina acerta: o guerreiro mantém a postura, a respiração e o olhar por mais alguns instantes. Quem relaxa no momento do acerto é derrubado pelo contra-ataque que ninguém viu chegar.</p><p>É a diferença entre acertar o golpe e vencer a luta. São duas coisas diferentes, e a segunda acontece depois da primeira.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é viver com medo do próximo golpe.</strong> Zanshin é atenção, não ansiedade. Quem vive esperando desgraça não está atento, está adoecendo — e isso se trata, com ajuda de gente de verdade.</p><p><strong>Não é deixar de comemorar.</strong> Comemore. Agradeça alto. O perigo não é a alegria; é a alegria que faz você soltar a mão de Deus porque agora acha que dá conta sozinho.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Vigiem e orem para que não caiam em tentação. O espírito está pronto, mas a carne é fraca.”</p><footer>Mateus 26.41 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Portanto, aquele que julga estar firme, cuide-se para que não caia.”</p><footer>1 Coríntios 10.12 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Repare quando Jesus diz “vigiem e orem”: no jardim, de madrugada, quando os discípulos acharam que era hora de dormir. Não era. Era a última hora em que ainda dava para se preparar.</p><p>E o Salmo 93 diz que o Senhor reina — não só sobre o mar bravo, mas sobre o mar liso também. Muita gente encontra Deus na tempestade e esquece dele na bonança, como se Ele governasse só a parte difícil. Ele governa as duas. A calmaria de hoje também é território dele, e continuar por perto nela é o treino mais difícil que existe: porque nada te obriga.</p></div>",
+    "marchaIntro": "",
+    "cadernoPergunta": "Onde você anda mais distante de Deus: no aperto ou no descanso?",
+    "placeholder": "Quando a pressão passou, eu parei de…",
+    "oracao": "Senhor, eu te procurei quando doía e me afastei quando melhorou. Perdoa a minha memória curta. Eu quero te conhecer e te adorar também nos dias em que nada me obriga — porque Tu reinas sobre a bonança tanto quanto reinaste sobre a minha última tempestade. Amém."
+  },
+  {
+    "n": 4,
+    "tatica": "Maai",
+    "leitura": "ma-ai · a distância certa",
+    "lema": "A distância decide antes da força",
+    "legenda": "Maai (A Distância Certa) × Salmos 1.1 e Pv 4.14: Recuar três passos das ciladas do pecado antes que seja exigida uma força humana que ninguém possui.",
+    "escolhas": [],
+    "extras": [],
+    "marcha": [
+      {
+        "titulo": "Manhã · meça",
+        "texto": "Escreva uma coisa da qual você está a um passo. Não julgue. Só nomeie a distância real."
+      },
+      {
+        "titulo": "Tarde · um passo atrás",
+        "texto": "Aumente essa distância hoje, de forma concreta: apagar, bloquear, mudar de caminho, avisar alguém."
+      },
+      {
+        "titulo": "Noite · quem sabe",
+        "texto": "Conte a uma pessoa de confiança onde você está. Distância sozinha se perde; com testemunha, ela se mantém."
+      }
+    ],
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>maai</em> — as três distâncias de combate (tōma, issoku ittō, chikama). <a href=\"https://www.kendo-guide.com/maai.html\">Kendo Guide</a></li><li><strong>Passagens:</strong> Salmos 1.1 e Provérbios 4.14-15, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> a grafia exata dos versículos deve ser conferida contra edição oficial da NVI antes da impressão.</li></ul>",
+    "reconhecimento": "<p>Ninguém decide cair de uma vez. Primeiro você passa perto. Depois você para para olhar. Depois você senta.</p><p>Quando percebe, já está dentro — e aí força de vontade não resolve mais, porque a distância que te protegia acabou faz tempo.</p>\n<p class=\"pergunta\">De qual coisa você anda mais perto do que deveria?</p>",
+    "taticaHtml": "<p><strong>Maai</strong> é o espaço entre os dois combatentes. Perto demais, você não tem tempo de reagir. Longe demais, você não consegue agir. O espadachim experiente não vence por ser mais forte — vence porque controla a distância, e quem controla a distância escolhe quando a luta acontece.</p><p>Metade das derrotas já estava decidida antes do primeiro movimento, só pelo lugar onde cada um estava parado.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é fugir de gente.</strong> A distância aqui é do que te derruba, não das pessoas. Isolamento não é maai, é rendição disfarçada de cuidado.</p><p><strong>Não é achar que você é frágil demais.</strong> É o contrário: só quem se conhece sabe medir. Quem acha que aguenta tudo é justamente quem chega perto demais.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Como é feliz aquele que não segue o conselho dos ímpios, não imita a conduta dos pecadores, nem se assenta na roda dos zombadores.”</p><footer>Salmos 1.1 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Não siga pela vereda dos ímpios nem avance pelo caminho dos maus. Evite-o, não passe por ele; desvie-se e siga adiante.”</p><footer>Provérbios 4.14-15 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Olhe a sequência do Salmo 1, na ordem exata: <strong>segue</strong> — <strong>imita</strong> — <strong>se assenta</strong>. Andar, parar, sentar. É a distância se fechando em três passos, e cada um parece pequeno sozinho.</p><p>É exatamente maai. E Provérbios 4 dá a única resposta que funciona: não é “resista quando chegar lá”, é <em>não passe por ele</em>. A vitória de hoje não acontece na hora da tentação. Acontece três quadras antes, quando você escolhe outro caminho e ninguém vê.</p><p>E aqui está o alívio: Deus reina também sobre a estrada. Você não precisa ser forte o bastante para ficar de pé na beira do abismo — Ele nunca te pediu isso.</p></div>",
+    "marchaIntro": "",
+    "cadernoPergunta": "Qual foi o último passo que você deu na direção errada e chamou de inofensivo?",
+    "placeholder": "Estou perto demais de…",
+    "oracao": "Senhor, eu confesso que ando perto demais do que me derruba e chamo isso de controle. Me dá coragem de dar três passos atrás hoje, antes que seja preciso uma força que eu não tenho. Tu reinas sobre a estrada inteira. Amém."
+  },
+  {
+    "n": 5,
+    "tatica": "Suki",
+    "leitura": "su-ki · a fresta na guarda",
+    "lema": "Você não cai em qualquer hora. Você cai na sua",
+    "legenda": "Suki (A Fresta na Guarda) × Efésios 4.26-27: Conhecer a própria vulnerabilidade para não dar lugar ao adversário e abraçar o escape provido por Deus.",
+    "escolhas": [],
+    "extras": [],
+    "marcha": [
+      {
+        "titulo": "Manhã · ache a hora",
+        "texto": "Escreva o horário e a situação em que você cai com mais frequência. Só isso. Sem culpa, sem promessa."
+      },
+      {
+        "titulo": "Tarde · prepare o escape",
+        "texto": "Decida agora o que você vai fazer naquele horário: para quem liga, para onde vai, o que abre. Decidido antes, não na hora."
+      },
+      {
+        "titulo": "Noite · feche a porta",
+        "texto": "Faça uma mudança física hoje: tirar do quarto, apagar o atalho, mudar a senha, avisar alguém. Algo que a sua vontade de amanhã não desfaça sozinha."
+      }
+    ],
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>suki</em> — a abertura na guarda. <a href=\"https://www.kendo-guide.com/kendo_terminology.html\">Kendo Terminology A-Z</a></li><li><strong>Passagens:</strong> Efésios 4.26-27 e 1 Coríntios 10.13, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> a grafia exata dos versículos deve ser conferida contra edição oficial da NVI antes da impressão.</li></ul>",
+    "reconhecimento": "<p>Não é aleatório. Tem hora marcada. Para uns é a madrugada, para outros é o domingo à tarde, ou o instante depois de uma discussão, ou o segundo em que o dinheiro entra na conta.</p><p>A queda tem endereço e horário — e quase ninguém para para descobrir qual é o seu.</p>\n<p class=\"pergunta\">Que horas do dia você é mais fácil de derrubar?</p>",
+    "taticaHtml": "<p><strong>Suki</strong> significa literalmente <em>abertura</em>. É a brecha momentânea na defesa ou na atenção que deixa o guerreiro exposto. O mestre de espada não ataca a qualquer momento: ele espera o suki aparecer, e ele aparece sozinho — no cansaço, no excesso de confiança, no golpe grande demais.</p><p>Quem golpeia com movimentos largos abre fresta em todo lugar. E ninguém consegue fechar todas. O treino não é não ter brecha; é conhecer a sua antes que o outro conheça.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é ódio de si mesmo.</strong> Ter fresta não é defeito de caráter, é anatomia de guarda. Todo mundo tem. Quem diz que não tem é só quem ainda não olhou.</p><p><strong>Não é vigiar cada respiração.</strong> Você não precisa fechar tudo. Precisa conhecer uma e cuidar dela.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Quando vocês ficarem irados, não pequem. Apazigúem a sua ira antes que o sol se ponha, e não deem lugar ao diabo.”</p><footer>Efésios 4.26-27 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Deus é fiel; ele não permitirá que vocês sejam tentados além do que podem suportar. Mas, quando forem tentados, ele mesmo lhes providenciará um escape, para que o possam suportar.”</p><footer>1 Coríntios 10.13 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Repare no que Paulo escreve: <strong>não deem lugar</strong>. Lugar. Espaço. O inimigo não precisa da sua permissão, precisa de um vão — exatamente como o espadachim precisa do suki, e não da sua autorização.</p><p>E aí vem a parte que muda o dia: 1 Coríntios 10.13 diz que existe uma saída, e que <em>Ele</em> providencia. Não é você que fabrica o escape com força de vontade às três da manhã. Ele já está lá. Sua parte é saber onde fica a fresta — para reconhecer a porta quando ela aparecer.</p><p>Deus reina sobre a sua fresta também. Ela não é território neutro.</p></div>",
+    "marchaIntro": "",
+    "cadernoPergunta": "Qual é a sua fresta — e há quanto tempo você finge que ela não existe?",
+    "placeholder": "Eu costumo cair quando…",
+    "oracao": "Senhor, eu conheço a minha fresta e passei tempo demais fingindo que não. Hoje eu trago a minha fragilidade diante da Tua luz. Tu reinas até sobre esse lugar em mim. Mostra-me a Tua rota de escape antes que o golpe me atinja. Amém."
+  },
+  {
+    "n": 6,
+    "tatica": "Kiai",
+    "leitura": "ki-ai · o grito que junta tudo",
+    "lema": "O silêncio te entrega. A voz te devolve",
+    "legenda": "Kiai (A Voz que Une) × Josué 6.20 e Sl 34.6: Romper o silêncio da vergonha com o clamor da boca, derrubando os muros da opressão diante do Senhor.",
+    "escolhas": [],
+    "extras": [],
+    "marcha": [
+      {
+        "titulo": "Manhã · diga sozinho",
+        "texto": "Em voz alta, num lugar em que ninguém ouça, diga o nome da coisa. Sem rodeio, sem palavra bonita. O nome dela."
+      },
+      {
+        "titulo": "Tarde · diga a uma pessoa",
+        "texto": "Conte a uma pessoa de confiança. Uma só. O que perde força quando dito é justamente o que ganhou força no silêncio."
+      },
+      {
+        "titulo": "Noite · ore com a boca",
+        "texto": "Ore em voz alta hoje, não na cabeça. Mesmo trocando as palavras, mesmo sem jeito. A boca precisa aprender o caminho."
+      }
+    ],
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>kiai</em> — o grito exigido na pontuação do kendô. <a href=\"https://en.wikipedia.org/wiki/Kiai\">Wikipedia</a> · <a href=\"https://www.kendo-guide.com/kendo_techniques.html\">Kendo Guide</a></li><li><strong>Passagens:</strong> Josué 6.20 e Salmos 34.6, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> a grafia exata dos versículos deve ser conferida contra edição oficial da NVI antes da impressão.</li></ul>",
+    "reconhecimento": "<p>Tem coisa que só cresce no escuro. Você para de contar, para de pedir ajuda, para de rezar em voz alta — e a coisa fica maior, porque ninguém nunca disse o nome dela.</p><p>Vergonha odeia som. Ela precisa que você fique quieto.</p>\n<p class=\"pergunta\">O que você não consegue dizer em voz alta?</p>",
+    "taticaHtml": "<p><strong>Kiai</strong> quer dizer <em>energia unificada</em> — o encontro entre intenção, corpo e ação. É o grito curto e explosivo do combatente. Não é raiva: é alinhamento. O grito contrai o abdômen e aumenta a força do golpe.</p><p>E tem um detalhe do kendô que muda tudo: o golpe <strong>só vale ponto se vier com kiai convincente</strong> — e o praticante grita o <em>nome do alvo</em> no instante em que acerta. Cabeça, punho, tronco. Ele diz em voz alta onde está batendo.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é gritar com gente.</strong> Kiai é direção, não descontrole. Quem grita com os outros não tem kiai, tem raiva solta.</p><p><strong>Não é dizer que oração silenciosa é fraca.</strong> Deus ouve o pensamento. Mas existe uma coisa que só acontece quando a sua própria boca diz — e quem já falou sabe.</p><p><strong>Não é expor tudo para todo mundo.</strong> Falar em voz alta não é postar. É dizer a Deus, e a uma pessoa de confiança.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Quando as trombetas soaram, o povo gritou; e, ao som da trombeta, quando o povo deu um forte grito, o muro desabou.”</p><footer>Josué 6.20 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Este pobre homem clamou, e o Senhor o ouviu; e o livrou de todas as suas tribulações.”</p><footer>Salmos 34.6 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Jericó não caiu no aríete. Caiu no grito. Sete dias andando em volta, calados, e no sétimo o muro desabou quando o povo finalmente abriu a boca.</p><p>Junte isso com o kendô: o guerreiro grita <em>o nome do alvo</em> no momento do golpe. É essa a tática de hoje — não gritar por gritar, mas <strong>dizer o nome</strong>. Em voz alta. “Estou com medo de ________.” “Eu não consigo parar de ________.”</p><p>E o Salmo 34 mostra o tamanho da distância entre você e Deus nessa hora: o pobre clamou, e o Senhor <em>ouviu</em>. Não precisou gritar mais alto. Ele já estava perto. O grito não é para Deus escutar melhor — é para você parar de carregar calado o que Ele já reina sobre.</p></div>",
+    "marchaIntro": "",
+    "cadernoPergunta": "O que você anda carregando calado — e há quanto tempo?",
+    "placeholder": "Eu nunca disse em voz alta que…",
+    "oracao": "Senhor, eu venho carregando fardos pesados em silêncio, e o isolamento não me protegeu, só deixou pesar mais. Hoje eu digo em voz alta diante de Ti. Tu ouviste o pobre que clamou. Ouve este filho Teu e traz libertação ao meu coração. Amém."
+  },
+  {
+    "n": 7,
+    "tatica": "Harai Waza",
+    "leitura": "ha-rai · varrer a guarda",
+    "lema": "Quando não há por onde entrar, mude o alvo",
+    "legenda": "Harai Waza (Varrer a Guarda) × Atos 16.25 e 2 Cr 20.15: Em vez de colidir com portas fechadas, abalar os alicerces pelo louvor e pela oração a Deus.",
+    "escolhas": [],
+    "extras": [],
+    "marcha": [
+      {
+        "titulo": "Manhã · nomeie a porta",
+        "texto": "Escreva a coisa que não abre. Uma só, com nome e sobrenome."
+      },
+      {
+        "titulo": "Tarde · troque o alvo",
+        "texto": "Pergunte: o que sustenta essa porta? Medo? Uma pessoa? Uma dívida? Uma mentira que você acredita? Aja hoje sobre isso, não sobre a porta."
+      },
+      {
+        "titulo": "Noite · cante à meia-noite",
+        "texto": "Faça uma coisa de louvor no lugar onde você está preso — no carro, na cozinha, no quarto. Não porque abriu. Porque Ele reina mesmo fechado."
+      }
+    ],
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>harai waza</em> — família <em>shikake-waza</em>, desloca a lâmina adversária antes de atacar. <a href=\"https://www.kendo-guide.com/kendo_techniques.html\">Kendo Guide</a></li><li><strong>Passagens:</strong> Atos 16.25-26 e 2 Crônicas 20.15,17, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> a grafia exata dos versículos deve ser conferida contra edição oficial da NVI antes da impressão.</li></ul>",
+    "reconhecimento": "<p>Você já tentou de tudo. Mandou o currículo trinta vezes. Pediu desculpa três vezes. Orou pelo mesmo assunto durante dois anos. E continua fechado.</p><p>Não é que você não lutou. É que você vem batendo no mesmo lugar, e aquele lugar não abre.</p>\n<p class=\"pergunta\">Onde você vem batendo há meses sem sair do lugar?</p>",
+    "taticaHtml": "<p><strong>Harai</strong> quer dizer <em>varrer, afastar com um golpe</em>. É a técnica que o espadachim usa quando a guarda do adversário está perfeitamente fechada — sem nenhuma falha, sem nenhum ponto por onde entrar.</p><p>Nessa hora ele não ataca o corpo do outro. Ataca a <strong>espada</strong> do outro: derruba a lâmina por cima, ou varre por baixo, e o golpe sai no mesmo movimento.</p><p>É uma técnica de ataque, não de espera. Você continua avançando — só troca o que está atacando.</p>\n<p class=\"fonte-linha\">Fonte: <em>harai waza</em>, kendô — técnica usada quando a guarda do adversário não apresenta abertura. Kendo Guide; glossário Rembuden.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é desistir.</strong> Varrer é golpe, não recuo. Quem para de lutar não está fazendo harai, está saindo do combate.</p><p><strong>Não é “ore e não faça nada”.</strong> Paulo e Silas cantaram <em>dentro</em> da prisão, acordados, à meia-noite. Ação, em outro alvo.</p><p><strong>Não é fórmula.</strong> Nem toda porta abre. O texto não promete terremoto sob encomenda — promete que o chão pertence a Deus, e não ao seu obstáculo.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Por volta da meia-noite, Paulo e Silas estavam orando e cantando hinos a Deus; os outros presos os ouviam. De repente, houve um terremoto tão violento que os alicerces da prisão foram abalados. Imediatamente todas as portas se abriram, e as correntes de todos se soltaram.”</p><footer>Atos 16.25-26 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“A batalha não é de vocês, mas de Deus… Tomem suas posições, permaneçam firmes e vejam o livramento que o Senhor lhes dará.”</p><footer>2 Crônicas 20.15,17 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Aquela prisão não tinha ponto fraco. Cárcere interior, pés no tronco, guarda na porta.</p><p>E repare no que Paulo e Silas <strong>não</strong> fizeram: não bateram na porta, não arrombaram, não negociaram com o carcereiro. Fizeram outra coisa — e <strong>os alicerces</strong> se moveram. A porta não foi vencida. O chão embaixo dela cedeu.</p><p>É exatamente varrer a guarda: o alvo nunca foi o obstáculo, foi <em>o que segurava o obstáculo de pé</em>.</p><p>2 Crônicas 20 repete em ordem militar. Josafá está cercado por três exércitos e a instrução é <em>tomem posição, permaneçam firmes</em> — posição, não recuo — e ele manda os cantores na frente do exército.</p><p><strong>E o chão:</strong> se a porta não abrir hoje, não é porque você cantou errado. O terremoto é dele, e o tempo dele também. Sua parte é parar de se machucar contra a mesma tábua.</p></div>",
+    "marchaIntro": "",
+    "cadernoPergunta": "O que você está atacando que talvez não seja o problema de verdade?",
+    "placeholder": "A porta que não abre é…",
+    "oracao": "Senhor, eu venho batendo em portas de ferro com minhas próprias mãos e nada sai do lugar. Hoje eu paro de me machucar contra elas. Ensina-me a erguer a voz em louvor e oração antes mesmo que as correntes se rompam. O chão e a vitória pertencem a Ti. Amém."
+  },
+  {
+    "n": 8,
+    "tatica": "Kata",
+    "leitura": "ka-tá · a forma",
+    "lema": "Você vai fazer o que já fazia",
+    "legenda": "Kata (A Forma Repetida) × Lucas 22.39 e Sl 119.105: O hábito diário da oração no Getsêmani que sustenta o guerreiro quando a emoção falha.",
+    "escolhas": [],
+    "extras": [],
+    "marcha": [
+      {
+        "titulo": "Escolha uma coisa só",
+        "texto": "Pequena o bastante para caber no seu pior dia. Dois minutos de leitura, não trinta. Se não cabe no pior dia, não é forma — é intenção."
+      },
+      {
+        "titulo": "Marque hora e lugar",
+        "texto": "Daniel tinha janela e horário. Escreva os seus: onde, e que horas. Sem isso, é vontade, e vontade some."
+      },
+      {
+        "titulo": "Faça hoje sem sentir nada",
+        "texto": "Agora, no estado em que você está. O sentimento vem depois do movimento — nunca antes."
+      }
+    ],
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>kata</em> — o Nihon Kendo Kata, dez formas fixadas em outubro de 1912. <a href=\"https://www.kendo.or.jp/en/\">Federação Japonesa de Kendô</a> · <a href=\"https://www.kendo-guide.com/kendo_techniques.html\">Kendo Guide</a></li><li><strong>Passagens:</strong> Daniel 6.10 e Lucas 22.39, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> a grafia exata dos versículos deve ser conferida contra edição oficial da NVI antes da impressão.</li></ul>",
+    "reconhecimento": "<p>Um dia você acorda e não sente nada. Nem fé, nem vontade, nem culpa. Só vazio.</p><p>E é aí que quase todo mundo para — porque aprendeu que fé é sentimento, e o sentimento sumiu.</p>\n<p class=\"pergunta\">O que você só faz quando está sentindo?</p>",
+    "taticaHtml": "<p><strong>Kata</strong> são as formas fixas: sequências de movimento repetidas exatamente iguais, sempre em dupla — um que ataca, um que responde.</p><p>Em 1912, um comitê de vinte e três mestres de escolas diferentes reuniu formas de várias tradições de espada numa sequência só: dez formas, sete com espada longa e três com espada curta. O objetivo declarado não foi vencer nem impressionar. Foi <strong>preservar</strong> — atravessar gerações com a técnica intacta.</p><p>É a parte do treino que parece morta. É também a única que sobrevive quando o resto morre.</p>\n<p class=\"fonte-linha\">Fonte: Nihon Kendo Kata, estabelecido em outubro de 1912; dez formas; papéis de uchidachi e shidachi. Federação Japonesa de Kendô; Kendo Guide.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é ritual vazio.</strong> A forma não substitui Deus. Ela te leva até onde Ele está quando você não tem forças de escolher o caminho.</p><p><strong>Não é que sentir seja errado.</strong> Sinta tudo. Só não construa a sua vida em cima de uma coisa que vai e volta sozinha.</p><p><strong>Não é que falhar um dia apaga tudo.</strong> O praticante que faltou ao treino não perdeu os mil treinos anteriores. Você volta na forma, não no começo.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Quando Daniel soube que o decreto tinha sido publicado, foi para casa, subiu ao seu quarto, cujas janelas davam para Jerusalém, e três vezes por dia ele se ajoelhava e orava, agradecendo ao seu Deus, como costumava fazer.”</p><footer>Daniel 6.10 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Então Jesus saiu e, como de costume, foi para o monte das Oliveiras, e os seus discípulos o seguiram.”</p><footer>Lucas 22.39 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>As duas passagens carregam a mesma expressão, e ela é a definição de kata: <strong>“como costumava fazer”</strong> e <strong>“como de costume”</strong>.</p><p>Daniel acabou de saber que orar virou crime capital. O texto não diz que ele orou com mais fervor, nem que recebeu uma revelação. Diz que fez <strong>exatamente o que sempre fazia</strong> — mesma janela, mesmo horário, três vezes. A forma já estava montada antes do decreto. Por isso o decreto não a desmontou.</p><p>Lucas 22:39 é mais duro ainda. É a noite do Getsêmani, horas antes da cruz. E o que Jesus faz é ir ao lugar de sempre, do jeito de sempre. Na pior noite registrada na Bíblia, o que levou o corpo dele até a oração foi <strong>o costume</strong>.</p><p>Nenhum dos dois estava inspirado. Os dois estavam apavorados.</p><p><strong>E o chão:</strong> se você não tem forma nenhuma montada hoje, não começou tarde demais. Daniel montou a dele em dias comuns, quando não custava nada. Hoje é um desses dias.</p></div>",
+    "marchaIntro": "",
+    "cadernoPergunta": "Se amanhã você não sentir absolutamente nada, o que ainda vai fazer?",
+    "placeholder": "A minha forma vai ser…",
+    "oracao": "Senhor, eu construí a minha fé em cima do que eu sinto, e o que eu sinto vai e volta. Hoje eu monto uma forma: ________, às ________, em ________. Não pra Te impressionar. Pra ter caminho pronto no dia em que eu não conseguir escolher. Amém."
+  },
+  {
+    "n": 9,
+    "tatica": "Nuki Waza",
+    "leitura": "nu-ki · sair da linha do golpe",
+    "lema": "O golpe chegou onde você não estava",
+    "legenda": "Nuki Waza (Esquivar e Responder) × Mateus 4.4: O esquivar-se das provocações do inimigo cortando na raiz com a autoridade de \"Está escrito\".",
+    "escolhas": [],
+    "extras": [],
+    "marcha": [
+      {
+        "titulo": "Manhã · conte os que erraram",
+        "texto": "Escreva três coisas que podiam ter te derrubado e não derrubaram. Sem explicar. Só a lista."
+      },
+      {
+        "titulo": "Tarde · agradeça uma delas em voz alta",
+        "texto": "Escolha uma e agradeça em voz alta, sozinho. O que não é dito vira coincidência na memória."
+      },
+      {
+        "titulo": "Noite · um passo que você não entende",
+        "texto": "Tem uma decisão que você adiou sem saber por quê? Deixe adiada mais um dia, de propósito, e observe."
+      }
+    ],
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>nuki waza</em> — técnica de evasão com contra-ataque simultâneo, família ōji-waza. <a href=\"https://www.kendo-guide.com/kendo_techniques.html\">Kendo Guide</a> · <a href=\"https://kendoinfo.wordpress.com/tag/nuki-waza/\">kendoinfo.net</a></li><li><strong>Passagens:</strong> 2 Reis 6.8-10 e Salmos 33.10-11, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> a grafia exata dos versículos deve ser conferida contra edição oficial da NVI antes da impressão.</li></ul>",
+    "reconhecimento": "<p>Tem coisa que devia ter te destruído e não destruiu. A conversa que você ia perder e não perdeu. O acidente que quase. A pessoa que apareceu do nada no dia certo.</p><p>Você chamou de sorte. Já parou pra pensar que talvez não fosse?</p>\n<p class=\"pergunta\">O que já passou raspando por você e nunca foi contado a ninguém?</p>",
+    "taticaHtml": "<p><strong>Nuki</strong> é a técnica de quem <em>não bloqueia</em>. Você sai da linha do corte, a lâmina do adversário atravessa o ar vazio, e o contragolpe sai no mesmo movimento. O exemplo padrão do kendô chama-se <em>men-nuki-dō</em>: ele corta a sua cabeça, você já não está lá, e responde no tronco.</p><p>É força total do outro lado, encontrando nada.</p>\n<p class=\"fonte-linha\">Fonte: <em>nuki waza</em>, família ōji-waza do kendô — evitar o ataque e contra-atacar no mesmo tempo. Kendo Guide; kendoinfo.net.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é que nada ruim vai te acontecer.</strong> Coisas ruins acontecem, e este manual não promete o contrário. Nuki fala dos golpes que erraram, não dos que acertaram.</p><p><strong>Não é sorte com nome religioso.</strong> A diferença está em quem soube antes — e o texto de hoje mostra exatamente isso acontecendo.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Ora, o rei da Síria, guerreando contra Israel, reuniu-se com os seus conselheiros e disse: “Montarei o meu acampamento em tal e tal lugar.” Mas o homem de Deus mandou dizer ao rei de Israel: “Vá com cuidado a tal lugar, pois os arameus estão descendo para lá.” … Isso aconteceu várias vezes.”</p><footer>2 Reis 6.8-10 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“O Senhor desfaz o plano das nações e frustra os propósitos dos povos. Mas os planos do Senhor permanecem para sempre.”</p><footer>Salmos 33.10-11 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>O rei da Síria monta emboscada atrás de emboscada, e todas caem no vazio. Israel simplesmente <strong>não está onde o golpe chega</strong>.</p><p>Ele fica tão convencido de que há um traidor entre os seus que interroga os próprios oficiais. E a resposta é que não existe traidor nenhum: existe um profeta que ouve o que ele fala dentro do quarto.</p><p>Repare em <em>quem</em> faz o trabalho. Israel não desviou por ser mais rápido, mais forte ou mais esperto. Desviou porque <strong>Alguém sabia antes</strong>. O soldado só andou; a informação veio de fora dele.</p><p>E o Salmo 33 fecha: “o Senhor <strong>desfaz</strong> o plano das nações”. Não diz que Ele te ajuda a resistir ao plano. Diz que desfaz.</p><p><strong>E o chão:</strong> se um golpe te acertou, isso não significa que Deus não estava olhando. Significa que a história é mais longa do que o capítulo em que você está.</p></div>",
+    "marchaIntro": "",
+    "cadernoPergunta": "Do que você já foi tirado sem nunca ter percebido?",
+    "placeholder": "Já passou raspando por mim…",
+    "oracao": "Senhor, eu chamei de sorte muita coisa que talvez tenha sido Tua mão. Hoje eu conto ________ como Tua, e não como acaso. E os golpes que acertaram, eu deixo contigo também — porque a história não acabou no capítulo em que eu estou. Amém."
+  },
+  {
+    "n": 10,
+    "tatica": "Suriage Waza",
+    "leitura": "su-ri-á-guê · desviar para cima",
+    "lema": "A arma é forjada, chega — e não prevalece",
+    "legenda": "Suriage Waza (Desviar Deslizando) × Provérbios 15.1 e Rm 12.21: A resposta branda que desvia o furor e devolve a justiça sem absorver o veneno.",
+    "escolhas": [],
+    "extras": [],
+    "marcha": [
+      {
+        "titulo": "Manhã · nomeie a arma",
+        "texto": "Escreva a acusação que mais pesa: a frase que alguém disse, ou que você diz a si mesmo."
+      },
+      {
+        "titulo": "Tarde · não responda de frente",
+        "texto": "Uma coisa hoje você não vai revidar. Nem defender. Deixe passar por cima e siga andando."
+      },
+      {
+        "titulo": "Noite · leia a promessa em voz alta",
+        "texto": "Isaías 54:17, em voz alta, com o nome da arma no meio: “nenhuma ________ forjada contra mim prevalecerá.”"
+      }
+    ],
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>suriage waza</em> — desvio ascendente pelo fio da lâmina com contra-ataque. <a href=\"https://www.kendo-guide.com/kendo_techniques.html\">Kendo Guide</a> · <a href=\"https://kendoinfo.wordpress.com/tag/suriage-waza/\">kendoinfo.net</a></li><li><strong>Passagens:</strong> Isaías 54.17 e Romanos 8.31, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>",
+    "reconhecimento": "<p>Força contra força quebra alguma coisa. Normalmente você.</p><p>Tem gente que passa a vida inteira aguentando de peito aberto tudo o que vem, e chama isso de fé. Depois não entende por que está exausta.</p>\n<p class=\"pergunta\">O que você vem aguentando de frente que talvez não precisasse ser aguentado assim?</p>",
+    "taticaHtml": "<p><strong>Suriage</strong> não bloqueia de frente. Você deixa o golpe do adversário <em>deslizar para cima pelo fio da sua lâmina</em>, e o contragolpe sai no mesmo movimento. O exemplo padrão é <em>kote-suriage-men</em>: ele corta o seu punho, você conduz a lâmina dele para cima, e responde na cabeça.</p><p>O golpe não é parado. É conduzido.</p>\n<p class=\"fonte-linha\">Fonte: <em>suriage waza</em>, família ōji-waza do kendô — desviar o ataque para cima pelo fio da lâmina e contra-atacar. Kendo Guide; kendoinfo.net.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é fingir que não dói.</strong> A lâmina encosta na sua. O contato existe, o peso existe.</p><p><strong>Não é que Deus impede tudo.</strong> Isaías não diz que nenhuma arma será forjada. Diz que ela não prevalece — que é outra coisa.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Nenhuma arma forjada contra você prevalecerá, e você refutará toda língua que o acusar. Esta é a herança dos servos do Senhor.”</p><footer>Isaías 54.17 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Se Deus é por nós, quem será contra nós?”</p><footer>Romanos 8.31 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Repare no que Isaías 54:17 <strong>não</strong> diz. Não diz que nenhuma arma será forjada contra você. Ela é forjada. É apontada. Ela vem.</p><p>O que o texto promete é que ela <strong>não prevalece</strong> — exatamente o que acontece no suriage: o golpe existe, chega, encosta na lâmina, e sobe sem cortar nada.</p><p>Essa é a diferença entre “Deus não deixou o golpe sair” e “o golpe saiu e não venceu”. A segunda é a que a Bíblia promete, e é a única que sobrevive ao contato com a vida real.</p><p><strong>E o chão:</strong> se você está cansado, talvez não seja falta de fé — talvez você venha bloqueando de frente coisas que era pra deixar passar por cima.</p></div>",
+    "marchaIntro": "",
+    "cadernoPergunta": "Qual acusação você aceita como verdade sem nunca ter conferido?",
+    "placeholder": "A arma apontada pra mim se chama…",
+    "oracao": "Senhor, eu venho bloqueando tudo de frente e estou cansado. Hoje eu não revido ________. Não porque não dói — porque Tu disseste que ela não prevalece, e eu escolho acreditar nisso em vez de na minha força. Amém."
+  },
+  {
+    "n": 11,
+    "tatica": "Hyōshi",
+    "leitura": "hi-ó-chi · o ritmo",
+    "lema": "O ritmo da batalha não é seu para escolher",
+    "legenda": "Kiri-Kaeshi (O Treino Contínuo) × 1 Coríntios 9.26-27: O corte repetido de ambos os lados para forjar fibra espiritual e disciplina na corrida da fé.",
+    "escolhas": [],
+    "extras": [],
+    "marcha": [
+      {
+        "titulo": "Manhã · nomeie a pressa",
+        "texto": "Escreva a coisa que você quer forçar hoje. Uma só."
+      },
+      {
+        "titulo": "Tarde · adie 24 horas",
+        "texto": "Aquela mensagem, aquela decisão, aquela resposta: adie um dia. Só um. Anote como o corpo reage."
+      },
+      {
+        "titulo": "Noite · leia devagar",
+        "texto": "Salmos 27:14 em voz alta, três vezes, devagar. Repetir é o exercício — o versículo repete de propósito."
+      }
+    ],
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>hyōshi</em> (拍子), ritmo e tempo do combate — Miyamoto Musashi, <em>Livro dos Cinco Anéis</em>, Livro do Fogo (1645). <a href=\"http://ichijoji.blogspot.com/2013/07/hyoshi-timing-rhythm-and-translation.html\">Ichijoji</a> · <a href=\"https://www.academia.edu/144412946/Rhythm_Weaponized_Hyoshi_in_the_Book_of_Five_Rings\">“Rhythm Weaponized”, artigo acadêmico</a></li><li><strong>Passagens:</strong> Salmos 27.14 e Eclesiastes 3.1, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>",
+    "reconhecimento": "<p>Você acha que está atrasado. Todo mundo casou, comprou, resolveu — e você continua no mesmo lugar.</p><p>Aí vem a pressa: manda a mensagem antes da hora, aceita o emprego errado, volta pro relacionamento cedo demais. E depois chama isso de azar.</p>\n<p class=\"pergunta\">O que você está tentando forçar porque acha que já era pra ter acontecido?</p>",
+    "taticaHtml": "<p><strong>Hyōshi</strong> é ritmo, e é conceito central de Miyamoto Musashi no <em>Livro do Fogo</em>. Ele escreve que <strong>“há ritmo em tudo”</strong>, e coloca isso como a chave da vitória: perceber o tempo do adversário, quebrar o ritmo dele, e manter o seu.</p><p>Na prática significa ler quando o inimigo <em>inspira</em>, quando <em>hesita</em>, quando <em>se compromete demais</em>. Vencer é tomar o momento certo — não bater mais forte.</p>\n<p class=\"fonte-linha\">Fonte: Miyamoto Musashi, <em>Livro dos Cinco Anéis</em> (1645), Livro do Fogo — <em>hyōshi</em>, ritmo e tempo do combate.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é passividade.</strong> Musashi não manda esperar: manda <em>ler</em>. Esperar sem olhar é outra coisa, e não é tática.</p><p><strong>Não é que Deus está te atrasando de propósito.</strong> O tempo dele não é castigo. É que ele enxerga a batalha inteira e você enxerga hoje.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Aguarde o Senhor. Seja forte! Coragem! Aguarde o Senhor.”</p><footer>Salmos 27.14 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Tudo tem o seu tempo determinado, e há tempo para todo propósito debaixo do céu.”</p><footer>Eclesiastes 3.1 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Salmos 27:14 dá a instrução mais difícil que existe para quem está afundando: <strong>aguarde</strong>. E repare na construção — a palavra aparece duas vezes no mesmo versículo, com <em>“seja forte, coragem”</em> no meio.</p><p>Por que coragem para esperar? Porque esperar exige mais do que agir. Agir dá sensação de controle. Esperar te deixa sozinho com a falta dele.</p><p>E Eclesiastes 3 diz a coisa que resolve e incomoda ao mesmo tempo: o tempo é <strong>determinado</strong> — e não por você. Musashi diria que perder é agir fora do tempo. A Bíblia vai além: o tempo certo existe, e tem dono.</p><p><strong>E o chão:</strong> você não está atrasado. Você está num ritmo que não é o seu, e isso é péssimo para o seu controle e é a única razão pela qual dá pra respirar.</p></div>",
+    "marchaIntro": "",
+    "cadernoPergunta": "Onde a sua pressa já te custou caro antes?",
+    "placeholder": "Estou tentando forçar…",
+    "oracao": "Senhor, eu acho que estou atrasado e não sei se é verdade. Hoje eu solto ________ e não forço. Coragem pra esperar eu não tenho sozinho — dá essa coragem, porque o ritmo é Teu. Amém."
+  },
+  {
+    "n": 12,
+    "tatica": "Tsubazeriai",
+    "leitura": "tsu-ba-ze-ri-ai · guardas travados",
+    "lema": "Ninguém avança. Ninguém solta",
+    "legenda": "Mushin (Mente sem Apego) × Filipenses 4.6-7 e Isaías 26.3: A paz de Deus que guarda a mente de pensamentos fixos de pânico e ansiedade.",
+    "escolhas": [],
+    "extras": [],
+    "marcha": [
+      {
+        "titulo": "Manhã · nomeie o impasse",
+        "texto": "Escreva a coisa que não avança nem acaba. Com data: desde quando."
+      },
+      {
+        "titulo": "Tarde · decida o que você segura",
+        "texto": "No impasse, uma coisa é sua: o que você não vai soltar. Escreva. “Não te deixarei ir enquanto ________.”"
+      },
+      {
+        "titulo": "Noite · olhe a marca",
+        "texto": "Escreva o que esse impasse já te custou. Não para se lamentar — para reconhecer que você está atravessando, não parado."
+      }
+    ],
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>tsubazeriai</em> (鍔迫り合い) — travamento dos guardas em curta distância no kendô. <a href=\"https://www.kendo-guide.com/tsubazeriai.html\">Kendo Guide</a> · <a href=\"https://www.japanesewiki.com/culture/Tsubazeriai.html\">Japanese Wiki Corpus</a> · <a href=\"https://www.kendovictoria.asn.au/main/tsubazeriai/\">Victorian Kendo Renmei</a></li><li><strong>Passagens:</strong> Gênesis 32.24-26 e 2 Coríntios 12.9, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>",
+    "reconhecimento": "<p>Existe um ponto da luta em que não há vitória nem derrota. Só travamento. O processo que não anda, a doença que não piora nem melhora, o casamento que não acaba nem funciona.</p><p>É o lugar mais cansativo que existe, porque não dá nem pra comemorar nem pra enterrar.</p>\n<p class=\"pergunta\">Onde na sua vida faz meses que nada avança e nada acaba?</p>",
+    "taticaHtml": "<p><strong>Tsubazeriai</strong> é o momento em que os dois guardas de espada travam um contra o outro na altura do peito. Rostos próximos, os dois empurrando, nenhum conseguindo cortar. A expressão saiu do kendô e entrou na língua japonesa comum significando <em>disputa acirradíssima entre iguais</em>.</p><p>E o regulamento moderno é duro: é <strong>falta</strong> ficar ali para ganhar tempo, descansar a espada no ombro do outro, ou se recusar a separar. Você entra, resolve, e sai.</p>\n<p class=\"fonte-linha\">Fonte: <em>tsubazeriai</em> (鍔迫り合い), kendô — travamento dos guardas de espada em curta distância, com regras próprias de separação. Kendo Guide; Japanese Wiki Corpus; Victorian Kendo Renmei.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é aguentar calado para sempre.</strong> O próprio kendô proíbe descansar no travamento. Impasse não é lugar de morar.</p><p><strong>Não é que insistir sempre resolve.</strong> Jacó não venceu por insistência: ele foi tocado e ficou manco. Segurar teve preço.</p><p><strong>Se o impasse envolve violência</strong>, isso não é tsubazeriai — é perigo, e a saída não é segurar. É sair e pedir ajuda.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Então Jacó ficou sozinho, e um homem lutou com ele até o amanhecer. Quando o homem viu que não poderia vencê-lo, tocou-lhe na articulação da coxa… Então o homem disse: “Deixe-me ir, pois o dia já desponta.” Mas Jacó lhe respondeu: “Não te deixarei ir, a não ser que me abençoes.””</p><footer>Gênesis 32.24-26 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Mas ele me disse: “Minha graça é suficiente para você, pois o meu poder se aperfeiçoa na fraqueza.””</p><footer>2 Coríntios 12.9 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Peniel é um travamento que durou a noite inteira. Corpo contra corpo, ninguém soltando, até o amanhecer.</p><p>Três coisas mudam tudo nesse texto.</p><p>Primeiro: quando “o homem viu que não poderia vencê-lo”, ele <strong>toca</strong> a coxa de Jacó e a desloca — com um toque. Ou seja, Ele podia ter encerrado aquilo a qualquer segundo. Não era luta entre iguais; era uma luta que Deus escolheu não vencer rápido.</p><p>Segundo: Jacó não vence por força. Vence por <strong>não soltar</strong>.</p><p>Terceiro: ele sai de lá <strong>mancando</strong>. Abençoado e machucado, no mesmo movimento — e é por isso que Paulo, em 2 Coríntios 12, não pede que a espinha seja tirada; ele descobre que a força aparece dentro da fraqueza, não no lugar dela.</p><p><strong>E o chão:</strong> se você está travado há meses, não é sinal de que Deus foi embora. Jacó estava travado com Ele, não longe dele.</p></div>",
+    "marchaIntro": "",
+    "cadernoPergunta": "O que você se recusa a soltar, mesmo já mancando por causa disso?",
+    "placeholder": "Está travado desde…",
+    "oracao": "Senhor, faz ________ que nada anda e nada acaba, e eu estou exausto de segurar. Mas eu não solto. Não te deixarei ir. Se eu sair daqui mancando, que eu saia abençoado — e que a manhã venha. Amém."
+  },
+  {
+    "n": 13,
+    "tatica": "Kiri-otoshi",
+    "leitura": "ki-ri-o-to-chi · cortar por cima do corte",
+    "lema": "A defesa e o golpe são o mesmo movimento",
+    "legenda": "Kiri-otoshi (Corte Interceptador) × Mateus 4.4 e Rm 8.1: A espada da Palavra descendo na mesma linha da acusação, anulando toda condenação.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · escolha a lâmina",
+        "texto": "Escolha hoje um versículo curto e decore. Um só. Ele é a sua linha."
+      },
+      {
+        "titulo": "Tarde · corte na hora",
+        "texto": "Quando a mentira vier — “você não presta”, “nunca vai sair disso” —, responda com o versículo na hora. Em voz alta se der."
+      },
+      {
+        "titulo": "Noite · conte as vezes",
+        "texto": "Anote quantas vezes ela voltou e quantas vezes você respondeu. Não precisa empatar hoje."
+      }
+    ],
+    "reconhecimento": "<p>Tem pensamento que não pede licença. Ele desce em cima de você — no chuveiro, no trânsito, às três da manhã — e vem sempre pela mesma linha: <em>você estragou tudo</em>, <em>ninguém aguenta você</em>, <em>isso aqui não muda</em>.</p><p>E o que a gente costuma fazer é desviar. Distrai, rola a tela, trabalha até cansar. Desviar não é errado — só não resolve, porque o golpe volta amanhã pela mesma linha.</p>\n<p class=\"pergunta\">Qual é a frase que desce em cima de você sempre no mesmo horário?</p>",
+    "taticaHtml": "<p><strong>Kiri-otoshi</strong> é a técnica central do Ono-ha Itto-ryu, uma escola de espada japonesa com linhagem contínua de mestres até hoje. Quando o adversário corta na sua cabeça, você não desvia e depois responde. Você corta <strong>na mesma linha, ao mesmo tempo</strong> — e o seu corte desce por cima do dele, derrubando a lâmina do outro e chegando no alvo no mesmo movimento.</p><p>Defesa e ataque deixam de ser duas coisas. Viram uma. É por isso que a escola chama isso de <em>um corte só</em>.</p>\n<p class=\"fonte-linha\">Fonte: <em>kiri-otoshi</em>, técnica fundamental do Ono-ha Itto-ryu (kenjutsu de linhagem koryu), descrita pelo sōke atual da escola. Budo Japan; Seishin-kan.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é bater de volta em pessoas.</strong> A lâmina aqui é a Palavra, e o golpe que desce em cima de você é o pensamento — não o seu irmão, não a sua esposa.</p><p><strong>Não é força bruta.</strong> Na escola, quem corta com raiva perde a linha. O que vence é a linha certa, não o braço maior.</p><p><strong>Não é que a mentira nunca mais volta.</strong> Volta. A técnica existe justamente porque o golpe se repete.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Jesus respondeu: Está escrito: Nem só de pão viverá o homem, mas de toda palavra que procede da boca de Deus.”</p><footer>Mateus 4.4 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Portanto, agora já não há condenação para os que estão em Cristo Jesus.”</p><footer>Romanos 8.1 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Repare no que Jesus faz no deserto, em Mateus 4. Ele não discute, não explica, não se defende psicologicamente. Cada vez que a proposta desce, Ele responde na mesma hora e na mesma linha: <strong>“Está escrito”</strong>. Três golpes, três cortes, um movimento cada.</p><p>Isso é o mais prático que este manual tem pra te dar. A mentira que te visita tem endereço fixo. Então escolha a lâmina antes — um versículo curto, decorado — para que na hora do golpe você não precise procurar.</p><p><strong>E o chão:</strong> não é a sua firmeza que derruba a acusação. É que ela já foi respondida por Outro. Romanos 8.1 não te manda se esforçar mais; diz que a condenação já não tem onde encostar.</p></div>",
+    "cadernoPergunta": "Qual versículo você escolhe como lâmina para esta semana — e contra qual frase?",
+    "placeholder": "Quando vier “________”, eu respondo…",
+    "oracao": "Senhor, a mesma acusação desce em cima de mim todo dia e eu ando cansado de desviar. Põe a Tua palavra na minha boca antes de eu precisar dela. Hoje eu respondo com ________ e não fico discutindo com a mentira. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>kiri-otoshi</em> — técnica central do Ono-ha Itto-ryu, escola de kenjutsu fundada na linhagem de Ito Ittosai (fim do século XVI), com transmissão de mestres documentada até o sōke atual. <a href=\"https://budojapan.com/feature-articles/ono-ha-itto-ryu-yuji-yabuki-kiriotoshi/\">Budo Japan · entrevista com o sōke</a> · <a href=\"https://budojapan.com/video/kiriotoshi/\">Budo Japan · demonstração</a> · <a href=\"https://www.seishin-kan.org/itto-ryu.html\">Seishin-kan · histórico da escola</a></li><li><strong>Ressalva honesta:</strong> a linhagem e o ensino atual são documentados; a origem em campo de batalha é tradição transmitida pela própria escola, não registro histórico independente.</li><li><strong>Passagens:</strong> Mateus 4.4 e Romanos 8.1, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 14,
+    "tatica": "Debana Waza",
+    "leitura": "de-ba-na uá-za · no instante em que começa",
+    "lema": "Golpeie a coisa quando ela nasce, não quando ela cresce",
+    "legenda": "Debana Waza (Ataque no Início) × Tiago 1.14-15 e Gn 4.7: Identificar e cortar a tentação no primeiro milissegundo antes que se torne pecado.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · nomeie o primeiro sinal",
+        "texto": "Toda queda sua tem um primeiro movimento — um clique, um pensamento, um lugar, um horário. Escreva qual é o seu."
+      },
+      {
+        "titulo": "Tarde · aja no sinal, não no impulso",
+        "texto": "Da próxima vez que o primeiro sinal aparecer, faça uma coisa física imediata: levantar, sair da sala, ligar pra alguém. Antes de negociar."
+      },
+      {
+        "titulo": "Noite · registre o intervalo",
+        "texto": "Anote quanto tempo passou entre o primeiro sinal e a sua reação. O objetivo desta semana é só encurtar esse intervalo."
+      }
+    ],
+    "reconhecimento": "<p>Ninguém cai de uma vez. Existe sempre um instante anterior — pequeno, quase inocente — em que a coisa só começou a se levantar. O segundo copo ainda não foi servido. A mensagem ainda não foi mandada. A briga ainda é só um tom de voz.</p><p>Depois desse instante fica caro. Antes dele, custa quase nada.</p>\n<p class=\"pergunta\">Qual é o primeiro movimento — o pequenininho — antes da sua queda de sempre?</p>",
+    "taticaHtml": "<p><strong>Debana waza</strong> é a família de técnicas do kendô em que você golpeia <strong>no exato instante em que o adversário começa a atacar</strong>. Não antes, quando ele ainda está parado; não depois, quando o golpe já está vindo. No instante em que ele se compromete — e por isso mesmo fica aberto.</p><p>É uma das técnicas mais difíceis de aprender, porque exige ver o começo. Quem só vê o golpe formado sempre chega atrasado.</p>\n<p class=\"fonte-linha\">Fonte: <em>debana waza</em>, kendô — categoria oficial das <em>shikake waza</em> (técnicas de iniciativa): golpear no momento em que o adversário inicia o ataque. Kendo Guide; Kaminarikan.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é viver em estado de alarme.</strong> Ver o começo é atenção, não pânico. Vigiar não é desconfiar de tudo.</p><p><strong>Não é que você é fraco por cair depois.</strong> O kendô ensina isso como técnica difícil justamente porque ninguém acerta de primeira.</p><p><strong>Não é atacar pessoas na primeira palavra torta.</strong> O adversário aqui é o desejo, não o outro.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Cada um, porém, é tentado pelo próprio mau desejo, sendo por este arrastado e seduzido. Então esse desejo, tendo concebido, dá à luz o pecado.”</p><footer>Tiago 1.14-15 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Se você fizer o bem, não será aceito? Mas, se não o fizer, saiba que o pecado o espreita à porta; ele deseja conquistá-lo, mas você deve dominá-lo.”</p><footer>Gênesis 4.7 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Tiago descreve exatamente a mesma sequência que o kendô: desejo, concepção, nascimento. Tem um instante em que a coisa ainda é só desejo — e um instante depois em que ela já é ato, com consequência e gente machucada no meio.</p><p>Gênesis 4 é ainda mais direto: o pecado <em>espreita à porta</em>. Ele está do lado de fora, esperando o primeiro movimento. Deus não diz a Caim “não sinta”; diz “domine”. A raiva de Caim não era o crime. O crime veio depois, no campo, quando ele já tinha deixado o golpe se formar.</p><p><strong>E o chão:</strong> você não precisa vencer a batalha inteira hoje. Precisa só reconhecer o começo dela — e mesmo essa vigilância não é força sua: é Deus te dando olho para ver a porta antes de ela abrir.</p></div>",
+    "cadernoPergunta": "Qual é o seu primeiro sinal — e o que você vai fazer no segundo em que ele aparecer?",
+    "placeholder": "Meu primeiro sinal é…",
+    "oracao": "Senhor, eu costumo perceber tarde demais. Me dá olho para o começo: o primeiro pensamento, o primeiro clique, o primeiro tom de voz. No instante em que ________ aparecer hoje, me levanta antes que cresça. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>debana waza</em> — categoria codificada do kendô, dentro das <em>shikake waza</em> (técnicas de iniciativa); golpe desferido no instante em que o adversário inicia o próprio ataque (formas comuns: <em>debana men</em>, <em>debana kote</em>). <a href=\"https://www.kendo-guide.com/understanding-shikake-waza.html\">Kendo Guide</a> · <a href=\"https://www.kaminarikan.org/en/articles/kendo_techniques\">Kaminarikan · classificação das técnicas</a></li><li><strong>Ressalva honesta:</strong> é terminologia do kendô moderno (século XX). O princípio de tempo é antigo; o nome e a classificação são modernos.</li><li><strong>Passagens:</strong> Tiago 1.14-15 e Gênesis 4.7, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 15,
+    "tatica": "Okuri-Ashi",
+    "leitura": "o-ku-ri-á-chi · o pé que desliza",
+    "lema": "Avançar sem nunca cruzar os pés",
+    "legenda": "Okuri-Ashi (Passos Deslizantes) × Salmos 37.23-24: Passos curtos, firmes e rente ao chão guiados pelo Senhor, sem cruzar as pernas na adversidade.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · um passo só",
+        "texto": "Escolha o menor passo possível na direção certa. Menor mesmo: um telefonema, um copo de água, uma cama arrumada."
+      },
+      {
+        "titulo": "Tarde · não cruze os pés",
+        "texto": "Hoje, nada de decisão grande. Se aparecer uma, adie. Passo curto mantém a guarda."
+      },
+      {
+        "titulo": "Noite · confira o chão",
+        "texto": "Escreva: “hoje eu avancei ________”. Se foi pouco, escreva assim mesmo. Pouco e no chão vale mais que muito e desequilibrado."
+      }
+    ],
+    "reconhecimento": "<p>Quando a vida aperta, a gente quer dar o passo enorme. Mudar de cidade, largar tudo, resolver de uma vez. E o passo enorme quase sempre termina do mesmo jeito: os pés se cruzam, o corpo perde a base, e o tombo vem sozinho — sem ninguém precisar te empurrar.</p><p>Do outro lado tem o oposto: parar de andar porque o passo grande é impossível.</p>\n<p class=\"pergunta\">Você está tentando dar um passo grande demais, ou já parou de dar qualquer passo?</p>",
+    "taticaHtml": "<p><strong>Okuri-ashi</strong> é a forma de andar do kendô, e faz parte do <em>suriashi</em>: os pés <strong>deslizam</strong> rente ao chão em vez de subir e pisar. O pé da frente vai primeiro, o de trás vem atrás e recompõe a posição — e os pés <strong>nunca se cruzam</strong>.</p><p>A razão é simples e dura: pé cruzado é pé sem base. No instante em que os pés se cruzam você não consegue nem cortar nem recuar, e é exatamente aí que se leva o golpe. Por isso a escola aceita andar pouco — desde que nunca se ande sem base.</p>\n<p class=\"fonte-linha\">Fonte: <em>suriashi</em> e <em>okuri-ashi</em>, kendô — deslocamento deslizando, sem cruzar os pés, entre os cinco tipos básicos de <em>ashi-sabaki</em>. Kendo Guide; glossário Hizen.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é ficar parado.</strong> Okuri-ashi é deslocamento. O ponto é como se anda, não se se anda.</p><p><strong>Não é que mudança grande é sempre errada.</strong> Às vezes Deus manda sair da terra. Mas quase sempre isso vem depois de muitos passos curtos, não no lugar deles.</p><p><strong>Não é técnica de guerra antiga comprovada.</strong> É o método do kendô moderno — e é honesto dizer isso.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“O Senhor firma os passos de um homem, quando a conduta deste o agrada; ainda que tropece, não cairá, pois o Senhor o sustém com a sua mão.”</p><footer>Salmos 37.23-24 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Ele não permitirá que você tropece; o seu protetor se manterá alerta.”</p><footer>Salmos 121.3 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Salmos 37 fala de <strong>passos</strong>, no plural e no miúdo — não de saltos. E diz uma coisa que só serve para quem já caiu: <em>ainda que tropece, não cairá</em>. O texto não promete um caminho liso. Promete uma mão embaixo.</p><p>Quem está no fundo do vale escuta “dê um passo de fé” e entende “dê um salto”. Não é isso. É o pé da frente indo, o de trás recompondo, a sola sem sair do chão. Distância pequena, base inteira.</p><p><strong>E o chão:</strong> quem firma o passo não é você. O verbo em Salmos 37 tem sujeito, e o sujeito é o Senhor. Você anda; a base é dele.</p></div>",
+    "cadernoPergunta": "Qual é o menor passo real que você consegue dar hoje — e qual passo grande você vai adiar?",
+    "placeholder": "Hoje eu dou este passo…",
+    "oracao": "Senhor, eu quero resolver tudo de uma vez e sempre acabo no chão. Hoje eu dou um passo só: ________. Firma esse passo, porque quem sustenta a base é o Senhor, não a minha força. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>suriashi</em> / <em>okuri-ashi</em> — deslocamento básico do kendô (<em>ashi-sabaki</em>): solas deslizando rente ao chão, pé da frente à frente, sem cruzar os pés. <a href=\"https://www.kendo-guide.com/footwork.html\">Kendo Guide · os cinco ashi-sabaki</a> · <a href=\"https://www.hizen.info/kendo/glossary/\">Glossário Hizen</a></li><li><strong>Ressalva honesta:</strong> é sistematização do kendô moderno (século XX). Plausivelmente herdada de práticas antigas de deslocamento, mas o sistema nomeado é moderno.</li><li><strong>Passagens:</strong> Salmos 37.23-24 e Salmos 121.3, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 16,
+    "tatica": "Kaeshi Waza",
+    "leitura": "ka-e-chi uá-za · devolver no giro",
+    "lema": "Não absorva o impacto de frente: gire e devolva",
+    "legenda": "Kaeshi Waza (Aparar e Devolver) × Romanos 12.20-21: Receber o golpe no dorso da fé e responder com mansidão, vencendo o mal com o bem.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · identifique a provocação",
+        "texto": "Escreva qual é a ofensa ou cobrança injusta que mais tem te tirado o chão. Reconheça a força dela sem revidar de pronto."
+      },
+      {
+        "titulo": "Tarde · a resposta que não bate",
+        "texto": "Quando receber uma palavra áspera hoje, não retruque com a mesma moeda. Responda com mansidão firme e mude o rumo da conversa."
+      },
+      {
+        "titulo": "Noite · entregue a justiça",
+        "texto": "Em oração silenciosa, solte o desejo de vingança. Declare que a justiça pertence a Deus e durma sem dívidas emocionais."
+      }
+    ],
+    "reconhecimento": "<p>Alguém te ataca com palavras duras, desdém ou ingratidão. O primeiro reflexo é endurecer o peito e bater de volta com o dobro da força.</p><p>Mas bater de frente em quem já vem com raiva só gera mais estilhaços. A força dele soma com a sua, e os dois saem feridos.</p>\n<p class=\"pergunta\">Qual ataque recente você tentou travar no peito e acabou saindo machucado?</p>",
+    "taticaHtml": "<p><strong>Kaeshi waza</strong> pertence à família das <em>ōji-waza</em> (técnicas de resposta) do kendô. Quando o adversário desce um golpe potente, você não bloqueia com rigidez. Você recebe o impacto no dorso da própria lâmina (<em>shinogi</em>), gira os punhos em semicírculo contínuo e desfere o contragolpe no mesmo fôlego.</p><p>O exemplo clássico é <em>men-kaeshi-dō</em>: ele tenta cortar a sua cabeça, você apara amortecendo e corta o flanco dele enquanto ele ainda avança pelo próprio impulso.</p>\n<p class=\"fonte-linha\">Fonte: <em>kaeshi waza</em>, kendô — técnicas de aparar com giro de punho e contragolpe imediato. All Japan Kendo Federation; Kendo Guide; kendoinfo.net.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é covardia ou submissão passiva.</strong> O kaeshi waza não foge do combate: ele usa a própria energia da investida adversária para finalizar o confronto com precisão cirúrgica.</p><p><strong>Não é vingança disfarçada.</strong> Devolver com mansidão não é planejar uma humilhação posterior; é neutralizar o mal antes que ele contamine o seu espírito.</p><p><strong>Se houver violência física ou abuso real</strong>, não hesite em procurar as autoridades competentes e romper o contato. A Bíblia ensina sabedoria e proteção da vida, não tolerância ao crime.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“A resposta calma desvia a fúria, mas a palavra ríspida desperta a ira.”</p><footer>Provérbios 15.1 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Não se deixem vencer pelo mal, mas vençam o mal com o bem.”</p><footer>Romanos 12.21 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Provérbios 15.1 ensina a mecânica exata do kaeshi: a resposta branda não é fraqueza, é amortecimento ativo que desvia a energia destrutiva da fúria.</p><p>Romanos 12.21 coloca a vitória no lugar certo: vencer o mal com o bem. Você não anula o ódio com mais ódio; você recebe o golpe na graça e devolve em integridade, desmontando a intenção hostil.</p><p><strong>E o chão:</strong> se hoje você perdeu a paciência e bateu de frente, não se desespere. O perdão de Deus renova a sua base. Peça desculpas, respire fundo e recomece com a guarda alinhada.</p></div>",
+    "cadernoPergunta": "A qual provocação você vai responder com mansidão em vez de revidar na mesma moeda?",
+    "placeholder": "Em vez de atacar de volta quando me disserem…",
+    "oracao": "Senhor, muitas vezes meu orgulho quer gritar mais alto e responder com fúria. Ensina-me a amortecer as ofensas na Tua graça e devolver com a verdade que cura. Guarda o meu coração de guardar ressentimento. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>kaeshi waza</em> (返しばざ) — categoria ōji-waza do kendô (aparar com o dorso da espada e girar o punho para contragolpear). <a href=\"https://www.kendo-guide.com/kendo_techniques.html\">Kendo Guide</a> · <a href=\"https://kendoinfo.wordpress.com/tag/kaeshi-waza/\">kendoinfo.net</a></li><li><strong>Passagens:</strong> Provérbios 15.1 e Romanos 12.21, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 17,
+    "tatica": "Uchiotoshi Waza",
+    "leitura": "u-chi-o-to-chi uá-za · derrubar a lâmina",
+    "lema": "Derrube o argumento antes que ele alcance o coração",
+    "leituraFonte": "u-chi-o-to-shi",
+    "legenda": "Uchiotoshi Waza (Derrubar o Golpe) × 2 Coríntios 10.5: Derrubar sofismas e pensamentos altivos, levando todo entendimento cativo a Cristo.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · desmonte a mentira matinal",
+        "texto": "Identifique o primeiro pensamento derrotista do dia e derrube-o com uma verdade bíblica falada em voz audível."
+      },
+      {
+        "titulo": "Tarde · interrompa o ciclo de ruminação",
+        "texto": "Ao perceber que está remoendo culpas antigas ou medos futuros, interrompa a mente e faça uma oração de entrega imediata."
+      },
+      {
+        "titulo": "Noite · blinde o descanso",
+        "texto": "Desligue notificações e telas meia hora antes de dormir. Não permita que ruídos externos disputem a sua paz noturna."
+      }
+    ],
+    "reconhecimento": "<p>Existem pensamentos e acusações que chegam com peso de martelo. Parecem verdades incontestáveis sobre quem você é, seus fracassos ou seu futuro.</p><p>Ficar apenas assistindo a esses pensamentos descerem sobre a sua mente é abrir a porta para a depressão e a paralisia.</p>\n<p class=\"pergunta\">Que pensamento destrutivo tem pairado sobre você como se tivesse autoridade sobre a sua vida?</p>",
+    "taticaHtml": "<p><strong>Uchiotoshi waza</strong> é uma técnica agressiva de contra-ataque no kendô. Quando o adversário desfere o corte, você intercepta a espada dele com um golpe diagonal descendente forte, derrubando a lâmina dele para o chão e abrindo imediatamente o caminho para o seu próprio golpe.</p><p>Não há negociação no ar. A arma que vinha para ferir é jogada para baixo e anulada no instante do contato.</p>\n<p class=\"fonte-linha\">Fonte: <em>uchiotoshi waza</em> (打ち落とし技), kendô — técnicas de abater a arma adversária para baixo em resposta a um ataque direto. Kendo Guide; All Japan Kendo Federation.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é tentar calar as pessoas na força bruta.</strong> A técnica se aplica às mentiras espirituais e pensamentos tóxicos, não a debates agressivos com pessoas reais.</p><p><strong>Não é negar a realidade dos problemas.</strong> Reconhecer as dificuldades é maturidade; o que se derruba é o desespero e a mentira de que Deus perdeu o controle.</p><p><strong>Não substitui acompanhamento profissional</strong> se você estiver enfrentando depressão clínica, ideação suicida ou crises graves. Procure ajuda médica e pastoral imediatamente.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Destruímos argumentos e toda pretensão que se levanta contra o conhecimento de Deus, e levamos cativo todo pensamento, para torná-lo obediente a Cristo.”</p><footer>2 Coríntios 10.5 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Além disso, usem o escudo da fé, com o qual vocês poderão apagar todas as setas inflamadas do Maligno.”</p><footer>Efésios 6.16 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>2 Coríntios 10.5 usa termos de combate bélico direto: <em>destruímos argumentos</em> e <em>levamos cativo todo pensamento</em>. Isso é uchiotoshi na prática mental diária.</p><p>Você não conversa com a mentira que diz que sua vida não tem valor; você a derruba com o que Deus declarou a seu respeito na cruz.</p><p><strong>E o chão:</strong> a sua mente pode se cansar na batalha, mas a Palavra permanece inabalável. Quando faltar energia no braço, descanse na certeza de que Cristo já venceu a acusação final por você.</p></div>",
+    "cadernoPergunta": "Qual argumento mentiroso você precisa derrubar hoje com a verdade de Deus?",
+    "placeholder": "A mentira que vou derrubar hoje é…",
+    "oracao": "Pai, eu levo cativo diante de Ti o pensamento de que estou abandonado ou sem saída. Com a Tua verdade, eu derrubo essa acusação. Firma meus pensamentos no Teu amor eterno. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>uchiotoshi waza</em> (打ち落とし技) — técnica ōji-waza clássica do kendô que consiste em derrubar a lâmina do adversário para baixo e cortar em seguida. <a href=\"https://www.kendo-guide.com/kendo_techniques.html\">Kendo Guide</a> · <a href=\"https://www.kendo.or.jp/en/\">All Japan Kendo Federation</a></li><li><strong>Passagens:</strong> 2 Coríntios 10.5 e Efésios 6.16, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 18,
+    "tatica": "Hiki Waza",
+    "leitura": "hi-ki uá-za · golpear recuando",
+    "lema": "Recuar com postura não é fuga: é espaço para finalizar",
+    "legenda": "Hiki Waza (Golpear Recuando) × 1 Coríntios 6.18 e Gn 39.12: O recuo estratégico de José diante do pecado, quebrando o travamento com dignidade.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · identifique a armadilha",
+        "texto": "Observe qual ambiente, conversa ou gatilho costuma te prender num emaranhado sem saída e prepare sua rota de recuo ético."
+      },
+      {
+        "titulo": "Tarde · dê o passo atrás em ordem",
+        "texto": "Diante de uma discussão infrutífera ou de uma proposta duvidosa, retire-se com firmeza sem perder o respeito e a elegância."
+      },
+      {
+        "titulo": "Noite · examine a postura",
+        "texto": "Revise o dia e veja se o seu recuo manteve sua integridade intacta. Agradeça a Deus pelo escape concedido."
+      }
+    ],
+    "reconhecimento": "<p>Muitas vezes você se vê encurralado: um ambiente tóxico, uma tentação recorrente ou uma discussão inútil que só serve para drenar a sua alma.</p><p>Achar que a única forma de heroísmo é ficar parado no centro do fogo cruzado é uma armadilha de orgulho que destrói muitos guerreiros.</p>\n<p class=\"pergunta\">Onde você tem insistido em ficar quando a ordem clara é dar um passo atrás e preservar a vida?</p>",
+    "taticaHtml": "<p><strong>Hiki waza</strong> são as técnicas executadas enquanto o espadachim recua a partir do <em>tsubazeriai</em> (travamento de guardas). Em vez de ficar empurrando infinitamente sem resultado, o praticante aplica um golpe rápido e recua velozmente mantendo a distância e o <em>zanshin</em> (atenção alerta).</p><p>Recuar em hiki waza não é correr de costas desgovernado; é um movimento técnico deliberado que cria espaço, pontua e mantém o lutador protegido.</p>\n<p class=\"fonte-linha\">Fonte: <em>hiki waza</em> (引き技), kendô — técnicas de ataque em recuo a partir da curta distância (hiki-men, hiki-dō, hiki-kote). Kendo Guide; Victorian Kendo Renmei.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é covardia moral.</strong> Fugir do pecado ou da futilidade é um ato de alta coragem espiritual e autocontrole.</p><p><strong>Não é abandono de responsabilidades legítimas.</strong> Recuar de futilidades não significa abandonar sua família ou deveres de ofício.</p><p><strong>Não é desleixo com a postura.</strong> No kendô, recuar de cabeça baixa anula o ponto. O recuo cristão é de cabeça erguida na dignidade de servo do Senhor.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Fujam da imoralidade sexual. Todos os outros pecados que alguém comete, fora do corpo os comete; mas quem peca sexualmente, peca contra o seu próprio corpo.”</p><footer>1 Coríntios 6.18 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Ela o pegou pelo manto e disse: “Venha para a cama comigo!” Mas ele deixou o manto na mão dela e fugiu para fora da casa.”</p><footer>Gênesis 39.12 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>José, no Egito (Gênesis 39), aplicou o mais perfeito hiki waza da história bíblica: quando o laço da tentação apertou, ele não ficou para debater teologia ou testar sua própria força. Ele recuou correndo para fora da casa, mantendo sua alma intacta.</p><p>Paulo instrui a Timóteo e aos coríntios com a mesma clareza: <em>fujam</em>. O recuo estratégico diante da cilada é a vitória daquele que teme a Deus e conhece seus próprios limites.</p><p><strong>E o chão:</strong> se no passado você não recuou a tempo e caiu, saiba que o sangue de Cristo oferece restauração completa. Levante a cabeça, aprenda o movimento e não volte ao lugar da queda.</p></div>",
+    "cadernoPergunta": "De qual situação ou conversa tóxica você precisa dar um passo atrás hoje mesmo?",
+    "placeholder": "Hoje eu vou dar um passo atrás de…",
+    "oracao": "Senhor, livra-me da vaidade de querer provar minha força onde Tu me mandaste fugir. Dá-me sabedoria para me retirar do que corrompe e manter minha caminhada limpa na Tua presença. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>hiki waza</em> (引き技) — técnicas de ataque executadas enquanto se recua a partir do travamento de guardas (tsubazeriai). <a href=\"https://www.kendo-guide.com/tsubazeriai.html\">Kendo Guide</a> · <a href=\"https://www.japanesewiki.com/culture/Tsubazeriai.html\">Japanese Wiki Corpus</a></li><li><strong>Passagens:</strong> 1 Coríntios 6.18 e Gênesis 39.12, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 19,
+    "tatica": "Katsugi Waza",
+    "leitura": "ka-tsu-gui uá-za · ombrear a lâmina",
+    "lema": "Quebre o ritmo previsível: a surpresa nasce da retidão",
+    "legenda": "Katsugi Waza (Ombrear a Lâmina) × 1 Coríntios 1.27 e Jz 7.16: Quebrar a previsibilidade da carne usando a estratégia divina que confunde os fortes.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · mude a reação automática",
+        "texto": "Decida não reagir no piloto automático diante dos problemas habituais de hoje. Respire, busque a Deus e aja com sabedoria não convencional."
+      },
+      {
+        "titulo": "Tarde · surpreenda com generosidade",
+        "texto": "Faça um ato inesperado de bem ou encorajamento para alguém que esperava frieza ou cobrança de você."
+      },
+      {
+        "titulo": "Noite · descanse na estratégia divina",
+        "texto": "Agradeça a Deus pelos caminhos surpreendentes com que Ele conduz a sua história além do que a sua lógica limitada previa."
+      }
+    ],
+    "reconhecimento": "<p>Quando você se torna previsível no desespero, o inimigo já sabe exatamente qual botão apertar para te tirar do prumo: a mesma irritação, o mesmo desânimo, o mesmo vício de resposta.</p><p>Quebrar esse ciclo exige sair dos métodos convencionais do mundo e adotar a lógica surpreendente do Reino de Deus.</p>\n<p class=\"pergunta\">Em que área da sua rotina você tem reagido exatamente da forma previsível que o mundo espera?</p>",
+    "taticaHtml": "<p><strong>Katsugi waza</strong> é uma técnica do kendô em que o atacante subitamente ergue a espada sobre o ombro esquerdo (<em>katsugi</em> significa carregar no ombro) enquanto avança com ímpeto. O movimento altera bruscamente o campo visual e a expectativa do oponente, abrindo a guarda dele para um corte fulminante.</p><p>Não é um truque desonesto; é uma mudança de ângulo e dinâmica que desarma a rigidez previsível do adversário.</p>\n<p class=\"fonte-linha\">Fonte: <em>katsugi waza</em> (担ぎ技), kendô — técnicas de elevação da espada sobre o ombro para surpreender e ultrapassar a guarda. Kendo Guide; Kendo World.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é falsidade ou manipulação.</strong> Katsugi no combate espiritual significa usar as armas espirituais de Deus (amor, oração, serviço) em vez das armas carnais do mundo.</p><p><strong>Não é agir de forma caótica.</strong> A quebra de padrão tem foco e propósito claro: glorificar a Deus e desatar os nós do conflito.</p><p><strong>Não é autoconfiança cega.</strong> A vitória na estratégia divina depende inteiramente da obediência ao Senhor da batalha.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Mas Deus escolheu as coisas loucas do mundo para envergonhar os sábios, e escolheu as coisas fracas do mundo para envergonhar as fortes.”</p><footer>1 Coríntios 1.27 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Dividiu os trezentos homens em três companhias e pôs nas mãos de todos eles trombetas e jarros vazios, com tochas dentro.”</p><footer>Juízes 7.16 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Gideão enfrentou um exército inumerável com apenas trezentos homens carregando trombetas e jarros de barro com tochas dentro (Juízes 7). Nenhuma estratégia militar humana ditava aquilo; foi a sabedoria de Deus que quebrou a lógica humana e desbaratou os midianitas.</p><p>Quando o mundo espera que você pague na mesma moeda, pagar com bênção e oração é a quebra de ritmo que desfaz o poder do mal.</p><p><strong>E o chão:</strong> se você se sente pequeno ou sem recursos convencionais, lembre-se de que Deus se compraz em manifestar Sua soberania através de vasos de barro. A força vem Dele.</p></div>",
+    "cadernoPergunta": "Qual atitude fora do comum e guiada pelo Espírito você pode tomar hoje diante de um impasse?",
+    "placeholder": "Em vez do padrão comum, hoje vou…",
+    "oracao": "Senhor Deus, Tuas estratégias são mais altas que os meus pensamentos. Livra-me da mesmice carnal de responder ao mundo com as armas do mundo. Enche-me do Teu Espírito para agir com amor e ousadia. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>katsugi waza</em> (担ぎ技) — técnicas de elevar a espada sobre o ombro para quebrar a linha central e o tempo de reação adversário. <a href=\"https://www.kendo-guide.com/understanding-shikake-waza.html\">Kendo Guide</a> · <a href=\"https://www.kendoworld.com/\">Kendo World</a></li><li><strong>Passagens:</strong> 1 Coríntios 1.27 e Juízes 7.16, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 20,
+    "tatica": "Sen no Sen",
+    "leitura": "sen no sen · atacar no instante do ataque",
+    "lema": "Quando o mal se projeta para agir, a sua prontidão já corta",
+    "legenda": "Sen no Sen (Iniciativa Simultânea) × Provérbios 22.3 e Ne 4.13: Antecipar a armadilha do adversário armando a defesa espiritual antes do ataque.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · antecipe as zonas de risco",
+        "texto": "Identifique antecipadamente os momentos do dia em que a tentação ou o desânimo costumam atacar e monte sua vigília espiritual logo cedo."
+      },
+      {
+        "titulo": "Tarde · ação preventiva imediata",
+        "texto": "Ao primeiro sinal de discórdia ou desvio de foco, tome uma atitude de correção antes que a crise se instale por completo."
+      },
+      {
+        "titulo": "Noite · avaliação da sentinela",
+        "texto": "Agradeça a Deus pelo discernimento que te fez perceber as armadilhas antes que elas se fechassem ao seu redor."
+      }
+    ],
+    "reconhecimento": "<p>Esperar o incêndio tomar conta da casa inteira para só então procurar um balde d'água é loucura. Mas é exatamente assim que muitos lidam com o pecado e com as crises relacionais.</p><p>O homem sábio percebe o perigo quando ele ainda está em gestação e toma a iniciativa da retidão imediatamente.</p>\n<p class=\"pergunta\">Que problema você tem deixado crescer quando já deveria ter agido para neutralizá-lo?</p>",
+    "taticaHtml": "<p><strong>Sen no Sen</strong> (先の先) é um dos três níveis fundamentais de iniciativa (<em>mitsu no sen</em>) descritos nos tratados clássicos de artes marciais japonesas e detalhados no <em>Livro dos Cinco Anéis</em> de Miyamoto Musashi. Consiste em perceber o instante exato em que o adversário decide atacar e lançar o próprio ataque de modo simultâneo, atingindo-o antes que a ação dele se complete.</p><p>Exige discernimento refinado: ler a intenção e golpear no nascimento do movimento.</p>\n<p class=\"fonte-linha\">Fonte: Miyamoto Musashi, <em>Go Rin No Sho</em> (O Livro dos Cinco Anéis, 1645); princípios de <em>Mitsu no Sen</em> no Nihon Kendo Kata. Kendo Guide; Classical Budo Archives.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é agressão precipitada.</strong> Sen no Sen não é golpear sem motivo; é responder no exato instante em que a ameaça se move para a ação.</p><p><strong>Não é viver em neurose de perseguição.</strong> Discernimento espiritual gera paz e vigilância serena, não paranoia.</p><p><strong>Não se apoia na clarividência humana.</strong> O discernimento do crente vem da Palavra e da comunhão com o Espírito Santo.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“O prudente vê o perigo e esconde-se; mas os simples passam adiante e sofrem a pena.”</p><footer>Provérbios 22.3 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Por isso posicionei alguns do povo atrás dos pontos mais baixos da muralha, nos lugares abertos, divididos por famílias, armados de espadas, lanças e arcos.”</p><footer>Neemias 4.13 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Neemias não esperou Sambalate e Tobias invadirem Jerusalém para armar os trabalhadores (Neemias 4). Ele percebeu a conspiração e colocou guardas nos pontos vulneráveis antes do ataque chegar.</p><p>Provérbios 22.3 sintetiza a regra: o homem prudente enxerga o perigo de longe e toma refúgio em Deus e na atitude correta.</p><p><strong>E o chão:</strong> se você demorou a agir e o perigo te alcançou, clame ao Senhor do meio da batalha. Ele é socorro bem presente na tribulação.</p></div>",
+    "cadernoPergunta": "Qual perigo iminente você já enxergou e precisa neutralizar hoje com oração e prudência?",
+    "placeholder": "Vou agir preventivamente sobre…",
+    "oracao": "Senhor, concede-me espírito de prudência e discernimento. Que eu não seja ingênuo diante das ciladas, mas firme na vigilância para guardar minha família e meu coração no Teu caminho. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>sen no sen</em> (先の先) — iniciativa simultânea: ler o ataque do adversário e golpear no momento de sua projeção. <a href=\"https://www.kendo-guide.com/three_types_of_sen.html\">Kendo Guide · Mitsu no Sen</a> · Miyamoto Musashi, <em>Livro dos Cinco Anéis</em> (1645).</li><li><strong>Passagens:</strong> Provérbios 22.3 e Neemias 4.13, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 21,
+    "tatica": "Go no Sen",
+    "leitura": "go no sen · responder depois do ataque",
+    "lema": "Deixe a armadilha do ímpio se estender até cair sobre a cabeça dele",
+    "legenda": "Go no Sen (Resposta após o Vazio) × Salmos 9.15 e Ester 7.9: Permitir que a trama do ímpio se estenda no vazio até ruir pela justiça soberana de Deus.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · paciência diante da afronta",
+        "texto": "Se houver planos ou boatos contrários ao seu trabalho, não se desespere. Entregue a causa a Deus e mantenha a retidão."
+      },
+      {
+        "titulo": "Tarde · deixe a poeira assentar",
+        "texto": "Não tome decisões precipitadas no calor da provocação. Espere o tempo certo para falar e agir com clareza."
+      },
+      {
+        "titulo": "Noite · descanse na justiça de Deus",
+        "texto": "Medite em Salmos 9 e durma com a certeza de que o Senhor julga os povos com equidade e retidão."
+      }
+    ],
+    "reconhecimento": "<p>Ver pessoas agindo com maldade, falsidade ou soberba contra você pode gerar uma pressa desesperada de se justificar ou fazer justiça com as próprias mãos.</p><p>Mas quem corre para contra-atacar no susto quase sempre se desequilibra e perde a razão.</p>\n<p class=\"pergunta\">Que situação difícil você precisa suportar com serenidade enquanto Deus opera a justiça no tempo Dele?</p>",
+    "taticaHtml": "<p><strong>Go no Sen</strong> (後の先) é a iniciativa tardia consciente nos sistemas clássicos de esgrima japonesa. O espadachim permite intencionalmente que o adversário inicie e desenvolva seu ataque, aguarda o golpe chegar ao ponto de não-retorno (onde o atacante se desequilibra ou gasta toda a sua energia) e então desfere o contragolpe decisivo.</p><p>Não é lerdeza; é autocontrole absoluto sob pressão.</p>\n<p class=\"fonte-linha\">Fonte: <em>go no sen</em> (後の先), kendô e kenjutsu clássico — responder após o ataque adversário ter se comprometido no vazio. Kendo Guide; Nihon Kendo Kata.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é passividade cúmplice.</strong> Esperar o tempo de Deus não é aprovar a injustiça, mas confiar na providência soberana.</p><p><strong>Não é crueldade vingativa.</strong> O cristão não se alegra com a ruína do inimigo, mas descansa na justiça do Senhor.</p><p><strong>Não negligencie medidas legais de proteção</strong> caso esteja sendo vítima de difamação grave, calúnia ou crime. Deus estabeleceu a lei civil para conter a impunidade.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“As nações caíram na cova que cavaram; os seus pés ficaram presos no laço que esconderam.”</p><footer>Salmos 9.15 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Então Harbona, um dos eunucos que serviam o rei, disse: “Há uma forca de vinte e dois metros de altura junto à casa de Hamã, que ele preparou para Mardoqueu…” O rei disse: “Enforquem-no nela!””</p><footer>Ester 7.9 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>O livro de Ester é a demonstração perfeita de go no sen na história bíblica: Hamã construiu uma forca imensa para destruir Mardoqueu e tramou a aniquilação dos judeus. Ester e Mardoqueu jejuaram, oraram e esperaram o banquete certo. No clímax da trama, Hamã foi enforcado na própria armadilha que havia preparado.</p><p>Salmos 9.15 confirma: a injustiça cava a própria cova. A sua tarefa é permanecer de pé na verdade.</p><p><strong>E o chão:</strong> se a justiça parece tardar e a dor é profunda, lembre-se de que a história não se encerra na sexta-feira da crucificação; o domingo da ressurreição sempre chega.</p></div>",
+    "cadernoPergunta": "Em qual área você precisa parar de forçar o desfecho e esperar a justiça do Senhor se manifestar?",
+    "placeholder": "Entrego nas mãos de Deus a situação de…",
+    "oracao": "Senhor Soberano, Tu vês todas as intenções e conheces as tramas ocultas. Eu não buscarei vingança com minhas mãos. Entrego minha causa a Ti e descanso na Tua perfeita justiça. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>go no sen</em> (後の先) — iniciativa na resposta: deixar o ataque adversário se desdobrar para aplicar o contragolpe no desequilíbrio dele. <a href=\"https://www.kendo-guide.com/three_types_of_sen.html\">Kendo Guide</a> · Nihon Kendo Kata.</li><li><strong>Passagens:</strong> Salmos 9.15 e Ester 7.9, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 22,
+    "tatica": "Sen Sen no Sen",
+    "leitura": "sen sen no sen · iniciativa prévia absoluta",
+    "lema": "Desmonte a intenção do adversário antes mesmo que ela tome forma",
+    "legenda": "Sen Sen no Sen (Iniciativa Prévia) × 2 Reis 6.15-17: Desarmar o medo antes que ele nasça, contemplando os exércitos celestiais ao nosso redor.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · consagre o território",
+        "texto": "Antes de entrar em qualquer reunião ou ambiente tenso, ore pedindo a paz e a presença de Deus para governar o lugar."
+      },
+      {
+        "titulo": "Tarde · firmeza serena",
+        "texto": "Mantenha postura digna e palavras mansas diante de qualquer tentativa de intimidação. A autoridade vem de Deus."
+      },
+      {
+        "titulo": "Noite · memória das vitórias espirituais",
+        "texto": "Lembre-se das vezes em que Deus desfez temores gigantescos antes mesmo que eles chegassem perto de você."
+      }
+    ],
+    "reconhecimento": "<p>O medo do que pode acontecer amanhã paralisa mais guerreiros do que os perigos reais de hoje.</p><p>Quando você anda tomado pelo temor do futuro, qualquer sombra parece um exército pronto para te engolir.</p>\n<p class=\"pergunta\">Que medo antecipado tem roubado a sua paz antes mesmo de qualquer fato ter ocorrido?</p>",
+    "taticaHtml": "<p><strong>Sen Sen no Sen</strong> (先々の先) é a mais alta forma de iniciativa na tradição samurai. Refere-se a antecipar e neutralizar a própria intenção agressiva do oponente antes que ele sequer inicie o movimento corporal. Através de um <em>seme</em> (pressão espiritual e postural) irresistível e olhar inabalável, o mestre quebra a vontade de lutar do adversário antes do confronto nascer.</p><p>É a vitória alcançada na esfera da autoridade e da presença, antes da espada se mover.</p>\n<p class=\"fonte-linha\">Fonte: <em>sen sen no sen</em> (先々の先), artes marciais clássicas japonesas — iniciativa antes da iniciativa; quebra da intenção hostil na raiz. Miyamoto Musashi; Kendo World.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é arrogância ou intimidação pessoal.</strong> A autoridade do servo de Deus nasce da humildade e da dependência total do Senhor, não de pose de valentão.</p><p><strong>Não é controle mágico sobre os outros.</strong> Não podemos forçar a mente de ninguém; podemos apenas carregar a paz de Cristo que dissipa as trevas.</p><p><strong>Não dispensa a prudência diária.</strong> Andar no Espírito é o oposto de agir com presunção tola.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“O servo do homem de Deus levantou-se bem cedo… e viu que um exército com cavalos e carros de guerra cercava a cidade… O profeta respondeu: “Não tenha medo. Aqueles que estão conosco são mais numerosos do que eles.””</p><footer>2 Reis 6.15-16 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Mas em todas estas coisas somos mais que vencedores, por meio daquele que nos amou.”</p><footer>Romanos 8.37 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Eliseu em Dotã (2 Reis 6) viu o que o moço assustado não conseguia ver: os montes estavam cheios de cavalos e carros de fogo ao redor. A batalha já estava decidida no reino espiritual antes do exército sírio dar um único passo.</p><p>Romanos 8.37 nos chama de <em>mais que vencedores</em> exatamente porque a nossa vitória foi conquistada por Cristo na cruz antes mesmo de nascermos. Andar nessa certeza desmonta o pavor do futuro.</p><p><strong>E o chão:</strong> se hoje o medo te cercou e você tremeu, olhe para cima. Deus não te rejeita no tremor; Ele abre seus olhos para ver o livramento que já está montado ao seu redor.</p></div>",
+    "cadernoPergunta": "Qual temor infundado você vai entregar hoje à soberania do Senhor?",
+    "placeholder": "Hoje eu entrego o medo de…",
+    "oracao": "Senhor Deus Todo-Poderoso, abre os meus olhos espirituais para enxergar a Tua soberania sobre a minha vida. Que o temor dos homens não tenha poder sobre mim, pois Tu estás comigo em qualquer circunstância. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>sen sen no sen</em> (先々の先) — iniciativa sobre a intenção adversária, quebrando a disposição de ataque antes de sua manifestação física. <a href=\"https://www.kendo-guide.com/three_types_of_sen.html\">Kendo Guide</a> · Miyamoto Musashi, <em>Livro dos Cinco Anéis</em>.</li><li><strong>Passagens:</strong> 2 Reis 6.15-16 e Romanos 8.37, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 23,
+    "tatica": "Kuzushi",
+    "leitura": "ku-zu-chi · quebrar o equilíbrio",
+    "lema": "Nenhum gigante cai pela força bruta: desfaça a base do orgulho",
+    "legenda": "Kuzushi (Desequilíbrio da Base) × 1 Samuel 17.51 e Sl 18.2: Desestabilizar a soberba do gigante com a funda da fé antes do corte final da verdade.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · sonde a autossuficiência",
+        "texto": "Identifique onde você tem confiado no seu próprio braço em vez de confiar em Deus e curve o coração em oração sincera."
+      },
+      {
+        "titulo": "Tarde · desarme o conflito na raiz",
+        "texto": "Em vez de discutir com quem está furioso, faça uma pergunta sincera ou ofereça um gesto de serviço para desarmar a tensão."
+      },
+      {
+        "titulo": "Noite · descanse na rocha",
+        "texto": "Agradeça ao Senhor por ser a base inabalável que nunca sofre kuzushi quando as tempestades da vida sopram."
+      }
+    ],
+    "reconhecimento": "<p>Tentar empurrar uma muralha com a força dos ombros só serve para deslocar as suas articulações.</p><p>Muitas lutas na vida se arrastam porque você está atacando a parte mais dura do problema, em vez de minar aquilo que realmente o sustenta em pé.</p>\n<p class=\"pergunta\">Onde você tem gastado toda a sua força lutando contra sintomas em vez de tocar na raiz do problema?</p>",
+    "taticaHtml": "<p><strong>Kuzushi</strong> (崩し) é o princípio marcial fundamental de desequilíbrio. Nas artes de combate corpo a corpo e no manejo de armas da tradição japonesa, nenhum golpe ou projeção eficiente é aplicado enquanto o oponente está firmemente plantado em sua base. O guerreiro primeiro quebra a postura e o centro de gravidade do outro para então finalizar com o mínimo esforço.</p><p>Quem ataca um oponente com base estável se cansa e se expõe ao contragolpe.</p>\n<p class=\"fonte-linha\">Fonte: <em>kuzushi</em> (崩し), princípios de desequilíbrio e quebra de postura no Budo tradicional e artes clássicas de combate. Kodokan Archives; Koryu Jujutsu Documents.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é manipulação psicológica rasteira.</strong> Desequilibrar no sentido bíblico é desarmar o orgulho através da verdade e da humildade.</p><p><strong>Não é derrubar pessoas para humilhá-las.</strong> O objetivo cristão é resgatar vidas e restaurar relacionamentos, não destruir vidas alheias.</p><p><strong>Não é esquecer de cuidar da própria base.</strong> Cuidar do próprio equilíbrio em Cristo é o pré-requisito para qualquer ação espiritual sadia.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Davi correu e ficou de pé sobre ele. Tirou a espada de Golias da bainha e o matou, cortando-lhe a cabeça… Vendo que o seu guerreiro estava morto, os filisteus fugiram.”</p><footer>1 Samuel 17.51 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“O Senhor é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio.”</p><footer>Salmos 18.2 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Golias parecia invencível em sua armadura de bronze pesada (1 Samuel 17). Davi não tentou lutar com armadura de ferro nem bater espada contra escudo. Ele acertou a única brecha na testa do gigante, tirou-lhe o equilíbrio e o derrubou com uma pedra e a confiança no Deus dos exércitos de Israel.</p><p>Salmos 18.2 nos lembra: enquanto a carne apoia sua base na areia movediça do orgulho, o servo de Deus tem seus pés fincados na Rocha eterna.</p><p><strong>E o chão:</strong> se a sua própria base parece ter ruído hoje por erros cometidos, volte para Cristo. Ele é a pedra angular que jamais será abalada.</p></div>",
+    "cadernoPergunta": "Qual apego carnal precisa perder o apoio na sua vida hoje para que Cristo reine soberano?",
+    "placeholder": "Preciso tirar a base de sustentação de…",
+    "oracao": "Senhor Jesus, retira qualquer apoio falso em que tenho me firmado. Que a minha base seja unicamente a Tua graça e a Tua justiça. Tu és a Rocha que nunca se abala. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>kuzushi</em> (崩し) — quebra de equilíbrio e postura antes da aplicação de qualquer técnica decisiva. <a href=\"https://en.wikipedia.org/wiki/Kuzushi\">Wikipedia Budo</a> · Kodokan & Koryu Classical Archives.</li><li><strong>Passagens:</strong> 1 Samuel 17.51 e Salmos 18.2, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 24,
+    "tatica": "Tai-Sabaki",
+    "leitura": "tai-sa-ba-ki · a esquiva do corpo inteiro",
+    "lema": "Saia do caminho da lâmina sem sair da presença do dever",
+    "legenda": "Tai-Sabaki (Movimentação do Corpo) × Lucas 4.30 e Sl 91.7: Esquivar o corpo de emboscadas e intrigas inúteis, passando incólume pelo meio deles.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · examine as linhas de confronto",
+        "texto": "Identifique discussões estéreis nas redes ou no trabalho e decida não entrar na linha de tiro de brigas que não são suas."
+      },
+      {
+        "titulo": "Tarde · desvie com elegância",
+        "texto": "Quando tentarem te puxar para fofocas ou disputas de ego, mude de assunto ou retire-se com discrição e respeito."
+      },
+      {
+        "titulo": "Noite · permaneça focado na missão",
+        "texto": "Agradeça a Deus por te livrar de ciladas e renove seu compromisso com aquilo que realmente tem valor eterno."
+      }
+    ],
+    "reconhecimento": "<p>Tem dias em que parece haver armadilhas plantadas em cada esquina: pessoas querendo te arrastar para brigas, discussões que não levam a nada e provocações gratuitas.</p><p>Quem aceita lutar em toda briga para a qual é convidado termina o dia exausto, ferido e sem ter cumprido a sua verdadeira missão.</p>\n<p class=\"pergunta\">Em que disputa fútil você tem entrado que só tem servido para roubar o seu tempo e a sua paz?</p>",
+    "taticaHtml": "<p><strong>Tai-sabaki</strong> (体捌き) é a arte do movimento e esquiva do corpo inteiro nas disciplinas marciais japonesas. Consiste em reposicionar o corpo — girando o quadril ou mudando a linha de pés (<em>irimi-tenkan</em>) — de modo a sair completamente da trajetória do golpe adversário, mantendo-se em posição vantajosa para agir sem ser atingido.</p><p>Não é fugir desordenado; é mover o eixo corporal com graça e precisão.</p>\n<p class=\"fonte-linha\">Fonte: <em>tai-sabaki</em> (体捌き), kenjutsu e artes clássicas japonesas — reposicionamento dinâmico do corpo para evasão e controle de linha. Kendo Guide; Classical Budo Compendium.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é omissão diante do dever moral.</strong> Desviar de intrigas não significa ser covarde quando a justiça e a defesa dos vulneráveis exigem posicionamento firme.</p><p><strong>Não é desonestidade ou dissimulação.</strong> A esquiva cristã é motivada pela sabedoria do alto, que é pura e pacífica.</p><p><strong>Não faça do isolamento um estilo de vida.</strong> Esquivar-se do mal serve para continuar servindo ao próximo com integridade.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Mas ele passou por entre eles e retirou-se.”</p><footer>Lucas 4.30 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Mil poderão cair ao seu lado, dez mil à sua direita, mas nada o atingirá.”</p><footer>Salmos 91.7 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Em Nazaré (Lucas 4), quando a multidão enfurecida quis empurrar Jesus do precipício, Ele não invocou legiões de anjos nem trocou socos com ninguém: <em>passou pelo meio deles e retirou-se</em>. Ele sabia que a Sua hora e a Sua missão eram outras.</p><p>Salmos 91.7 nos assegura da guarda divina: mesmo em meio ao caos e às quedas ao redor, o Senhor preserva a vida daquele que habita no Seu esconderijo.</p><p><strong>E o chão:</strong> se uma pedra te acertou porque você demorou a se esquivar, o Bálsamo de Gileade cura a ferida. Não permaneça no chão lamentando o golpe.</p></div>",
+    "cadernoPergunta": "De qual discussão inútil ou armadilha cotidiana você vai se esquivar hoje mesmo?",
+    "placeholder": "Hoje eu vou me esquivar de…",
+    "oracao": "Senhor, dá-me a sabedoria de passar pelo meio das provocações sem me contaminar com a ira do mundo. Guarda os meus passos para que eu viva focado na Tua vontade. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>tai-sabaki</em> (体捌き) — gestão e esquiva do corpo fora da linha de corte mantendo a prontidão operacional. <a href=\"https://en.wikipedia.org/wiki/Tai_sabaki\">Wikipedia Martial Arts</a> · Kendo Guide.</li><li><strong>Passagens:</strong> Lucas 4.30 e Salmos 91.7, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 25,
+    "tatica": "Jō-Ha-Kyū",
+    "leitura": "djo-ra-kiu · a modulação do ritmo",
+    "lema": "Comece em ordem, rompa com firmeza, conclua com clareza",
+    "legenda": "Jō-Ha-Kyū (Ritmo e Modulação) × Eclesiastes 3.1 e Gl 6.9: O ritmo soberano de Deus com começo paciente, aceleração firme e colheita fiel.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · o começo contido (Jō)",
+        "texto": "Inicie o dia sem atropelos. Dedique os primeiros momentos à oração serena e ao planejamento ordenado das prioridades."
+      },
+      {
+        "titulo": "Tarde · a aceleração focada (Ha)",
+        "texto": "Execute a tarefa mais difícil do dia com intensidade total e concentração absoluta, sem distrações secundárias."
+      },
+      {
+        "titulo": "Noite · o fechamento limpo (Kyū)",
+        "texto": "Conclua o trabalho, organize o ambiente para amanhã e entregue o dia nas mãos de Deus em agradecimento."
+      }
+    ],
+    "reconhecimento": "<p>A vida moderna empurra as pessoas para um ritmo maníaco: tudo é urgente, tudo é para ontem, tudo começa em pânico e termina em exaustão.</p><p>Quem não sabe modular a própria energia começa cem projetos com fogo de palha e não conclui nenhum com excelência.</p>\n<p class=\"pergunta\">Que projeto importante você começou com pressa desordenada e acabou abandonando no meio do caminho?</p>",
+    "taticaHtml": "<p><strong>Jō-Ha-Kyū</strong> (序破急) é o princípio estrutural de tempo e ritmo que governa as artes marciais tradicionais japonesas (Budo), o tiro com arco (Kyudo) e o teatro clássico. O conceito divide qualquer ação em três fases orgânicas: <em>Jō</em> (início lento, estável e recolhido), <em>Ha</em> (transição, ruptura da estática e aceleração vigorosa) e <em>Kyū</em> (finalização rápida, precisa e decisiva).</p><p>Quem queima toda a energia no Jō não tem fôlego para o Kyū; quem pula o Jō entra no combate desordenado.</p>\n<p class=\"fonte-linha\">Fonte: <em>Jō-Ha-Kyū</em> (序破急), teoria clássica de ritmo e dinâmica temporal no Budo tradicional (Zeami Motokiyo / tratados de esgrima clássica). Kendo World Archives; Budo Theory.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é procrastinação com nome bonito.</strong> O Jō é preparação ativa e focada, não desculpa para adiar o trabalho.</p><p><strong>Não é rigidez mecânica.</strong> A vida tem imprevistos; a modulação de ritmo nos dá flexibilidade para nos adaptarmos sem quebrar a espinha.</p><p><strong>Não idolatre a própria produtividade.</strong> O Senhor do sábado nos ensina que o descanso é mandamento sagrado, não fraqueza.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu.”</p><footer>Eclesiastes 3.1 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“E não nos cansemos de fazer o bem, pois no tempo próprio colheremos, se não desanimarmos.”</p><footer>Gálatas 6.9 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Eclesiastes 3 e Gálatas 6.9 alinham a sabedoria divina com o tempo certo das coisas: <em>no tempo próprio colheremos</em>. Há tempo de semear com paciência (Jō), tempo de regar e trabalhar com vigor (Ha) e tempo de colher e celebrar (Kyū).</p><p>Deus não faz as estações do ano acontecerem todas no mesmo dia. Ele respeita o processo de maturação da nossa fé.</p><p><strong>E o chão:</strong> se hoje você sente que a sua colheita está demorando, continue semeando fielmente no ritmo de Deus. A pressa humana não acelera o agir soberano do Criador.</p></div>",
+    "cadernoPergunta": "Qual tarefa essencial você precisa ordenar hoje respeitando o tempo de cada etapa?",
+    "placeholder": "Vou ordenar o ritmo de…",
+    "oracao": "Senhor do tempo e da história, ensina-me a não andar ansioso nem preguiçoso. Dá-me sabedoria para iniciar em paz, trabalhar com afinco e terminar em descanso na Tua graça. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>Jō-Ha-Kyū</em> (序破急) — estrutura clássica tripartite de ritmo e tempo aplicada ao Budo e artes tradicionais do Japão. <a href=\"https://en.wikipedia.org/wiki/Jo-ha-ky%C5%AB\">Wikipedia Jo-ha-kyū</a> · Kendo World.</li><li><strong>Passagens:</strong> Eclesiastes 3.1 e Gálatas 6.9, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 26,
+    "tatica": "Maki Waza",
+    "leitura": "ma-ki uá-za · enrolar e desarmar",
+    "lema": "O movimento suave e circular desfaz a força bruta da lâmina",
+    "legenda": "Maki Waza (Desarme em Espiral) × Colossenses 2.15: O movimento espiral da cruz que desarma os principados sem choque de violência humana.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · desarme a agressividade",
+        "texto": "Ao ouvir uma acusação ou crítica áspera, responda com perguntas reflexivas em vez de rebater na defensiva."
+      },
+      {
+        "titulo": "Tarde · envolva com graça",
+        "texto": "Diante de um conflito de interesses, busque uma solução que honre a Deus e preserve a dignidade de todos os envolvidos."
+      },
+      {
+        "titulo": "Noite · solte o controle",
+        "texto": "Reconheça diante de Deus que desarmar o coração do outro é obra do Espírito Santo, não do seu poder de convencimento."
+      }
+    ],
+    "reconhecimento": "<p>Quando alguém puxa uma espada verbal contra você, a tentação imediata é puxar uma maior e tentar cortar mais fundo.</p><p>Mas quem vence uma briga na brutalidade quase sempre perde o irmão, a paz e o testemunho de Cristo.</p>\n<p class=\"pergunta\">Onde você tem insistido em usar a força do grito em vez da sabedoria que desarma a hostilidade?</p>",
+    "taticaHtml": "<p><strong>Maki waza</strong> (巻技) é uma família de técnicas do kendô de altíssima sofisticação mecânica. Consiste em fazer a ponta da sua espada descrever um movimento espiral envolvente ao redor da lâmina adversária (<em>maki-otoshi</em> para jogar para baixo, ou <em>maki-age</em> para arremessar para cima), arrancando a arma das mãos do oponente sem choque frontal de forças.</p><p>É o princípio da física e da fluidez triunfando sobre a rigidez estúpida do músculo.</p>\n<p class=\"fonte-linha\">Fonte: <em>maki waza</em> (巻技), kendô — técnicas de envolver e desarmar a lâmina adversária em movimento espiral. Kendo Guide; All Japan Kendo Federation.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é manipulação sedutora.</strong> Envolver com sabedoria é buscar a pacificação bíblica, não usar joguinhos mentais para obter vantagens egoístas.</p><p><strong>Não é condescendência com o pecado.</strong> Desarmar a agressão do homem não significa transigir com a verdade de Deus.</p><p><strong>Não subestime a oração.</strong> O verdadeiro desarmamento espiritual acontece no secreto com Deus antes de qualquer conversa difícil.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“E, despojando os principados e as potestades, publicamente os expôs ao desprezo, triunfando deles na cruz.”</p><footer>Colossenses 2.15 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Se o seu inimigo tiver fome, dê-lhe de comer; se tiver sede, dê-lhe de beber… Não se deixe vencer pelo mal, mas vença o mal com o bem.”</p><footer>Romanos 12.20-21 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Na cruz (Colossenses 2.15), Cristo realizou o supremo maki waza cósmico: o império das trevas achou que ao pregar o Filho de Deus na madeira havia vencido pela força e pela violência. Na verdade, foi na cruz que o poder da morte e do pecado foi completamente desarmado e despojado para sempre.</p><p>Romanos 12.20 nos dá a aplicação prática: alimentar o inimigo é amontoar brasas vivas sobre a cabeça dele, desarmando o ódio com a generosidade do Reino.</p><p><strong>E o chão:</strong> se alguém conseguiu te ferir e te desarmar hoje, lembre-se de que a sua vitória final está garantida pelo que Jesus já consumou na cruz.</p></div>",
+    "cadernoPergunta": "Como você pode desarmar com amor e sabedoria uma relação conflituosa hoje?",
+    "placeholder": "Em vez de bater de volta, vou responder com…",
+    "oracao": "Senhor, perdoa as vezes em que confiei na violência das minhas palavras. Ensina-me a desarmar os conflitos com a Tua graça e a sabedoria que vem do alto. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>maki waza</em> (巻技) — técnicas de enrolar e desviar/desarmar a lâmina adversária por rotação espiral. <a href=\"https://www.kendo-guide.com/kendo_techniques.html\">Kendo Guide</a> · All Japan Kendo Federation.</li><li><strong>Passagens:</strong> Colossenses 2.15 e Romanos 12.20-21, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 27,
+    "tatica": "Irimi",
+    "leitura": "i-ri-mi · entrar no ponto cego",
+    "lema": "Avance para o lugar seguro onde o golpe não alcança",
+    "legenda": "Irimi (Entrar no Ponto Cego) × Salmos 27.5 e Sl 32.7: Avançar para o esconderijo do Altíssimo, abrigando-se no pavilhão de Deus em tempos de aflição.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · aproxime-se de Deus na aflição",
+        "texto": "Quando a angústia apertar, não se afaste do Senhor por vergonha. Corra diretamente para a presença Dele em oração honesta."
+      },
+      {
+        "titulo": "Tarde · enfrente a conversa difícil",
+        "texto": "Em vez de fugir daquele telefonema ou pendência necessária, entre no assunto com humildade e resolva com verdade."
+      },
+      {
+        "titulo": "Noite · descanse no esconderijo",
+        "texto": "Medite em Salmos 27 e durma na certeza de que no dia da adversidade o Senhor te esconde no Seu pavilhão."
+      }
+    ],
+    "reconhecimento": "<p>Quando o medo aperta, o instinto humano é recuar em pânico para longe. Mas muitas vezes o recuo desordenado te mantém exatamente dentro do raio de alcance do corte adversário.</p><p>Existe uma coragem santa que sabe que o lugar mais seguro do mundo não é longe da luta, mas bem perto do coração de Deus.</p>\n<p class=\"pergunta\">De que responsabilidade ou confronto necessário você tem fugido que só tem aumentado a sua angústia?</p>",
+    "taticaHtml": "<p><strong>Irimi</strong> (入り身) é o princípio de entrar diretamente no espaço interno e no ponto cego do oponente no instante exato em que ele desfere um ataque com arco longo. Ao dar o passo para dentro da guarda dele (<em>irimi</em>), a espada longa do adversário perde o raio de ação e a alavanca de corte, tornando o ataque inútil enquanto você se posiciona no centro de controle.</p><p>O perigo maior não está em avançar com determinação; está em hesitar na meia-distância onde a ponta da lâmina atinge a velocidade máxima.</p>\n<p class=\"fonte-linha\">Fonte: <em>irimi</em> (入り身), Daitō-ryū Aiki-jūjutsu, Aikido e kenjutsu clássico — princípio de penetração na linha de ataque adversária. Classical Budo Archives; Kendo Guide.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é imprudência inconsequente.</strong> Entrar exige leitura apurada do tempo e dependência da direção do Senhor.</p><p><strong>Não é buscar o sofrimento por masoquismo.</strong> Entrar é resolver o problema na raiz, não se expor a danos desnecessários.</p><p><strong>Não confunda coragem com falta de conselho.</strong> As grandes decisões de vida exigem oração e conselho com pessoas sábias e maduras na fé.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Pois no dia da adversidade ele me guardará protegido em sua habitação; no seu tabernáculo me esconderá e me colocará em segurança sobre um rochedo.”</p><footer>Salmos 27.5 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Tu és o meu esconderijo; tu me preservarás da angústia e me cercarás de canções de livramento.”</p><footer>Salmos 32.7 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Salmos 27.5 e 32.7 mostram o verdadeiro irimi espiritual: quando o mar ruge e a tribulação vem com tudo, o servo de Deus não corre para o mundo; ele corre <em>para dentro do tabernáculo do Altíssimo</em>.</p><p>Estar perto de Deus no meio da tempestade anula o poder das ameaças humanas. Onde o Senhor habita, nenhuma espada forjada pelo inferno tem raio de alcance para te separar do Seu amor.</p><p><strong>E o chão:</strong> se hoje você se sente no meio do tiroteio, dê o passo para o esconderijo do Altíssimo. Ele nunca fecha a porta para o filho que clama.</p></div>",
+    "cadernoPergunta": "Qual passo de aproximação de Deus ou de resolução prática você precisa dar hoje sem hesitar?",
+    "placeholder": "Em vez de fugir com medo, hoje vou entrar em…",
+    "oracao": "Senhor Deus, Tu és o meu esconderijo seguro. Quando a tempestade rugir, que eu não fuja para os enganos do mundo, mas corra para os Teus braços onde a morte já foi vencida. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>irimi</em> (入り身) — princípio de entrar no raio de ação interno do adversário para anular a eficácia do corte longo. <a href=\"https://en.wikipedia.org/wiki/Irimi\">Wikipedia Irimi</a> · Daitō-ryū / Koryu Martial Arts.</li><li><strong>Passagens:</strong> Salmos 27.5 e Salmos 32.7, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 28,
+    "tatica": "Heijōshin",
+    "leitura": "hei-djô-chin · a mente serena cotidiana",
+    "lema": "O mesmo pulso calmo em casa é o pulso que entra no combate",
+    "legenda": "Heijōshin (Coração Cotidiano Inalterável) × Isaías 26.3 e Fp 4.12: A serenidade inabalável daquele cuja mente está firmada no Senhor em qualquer mar.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · ancore a respiração em Deus",
+        "texto": "Antes de levantar da cama, respire fundo três vezes e declare: “A paz de Deus, que excede todo o entendimento, guarda a minha mente hoje”."
+      },
+      {
+        "titulo": "Tarde · pause no meio da crise",
+        "texto": "Se houver correria ou pressão súbita no trabalho, faça uma pausa de 30 segundos para orar em silêncio e reencontrar o equilíbrio."
+      },
+      {
+        "titulo": "Noite · descarregue o fardo",
+        "texto": "Entregue a Deus todas as pendências não resolvidas antes de fechar os olhos. O Senhor guarda o Seu povo sem pestanejar."
+      }
+    ],
+    "reconhecimento": "<p>Viver oscilando entre picos de euforia e abismos de desespero drena a alma e adoece o corpo.</p><p>Quem depende de circunstâncias perfeitas para ter paz passa a vida inteira como refém do humor dos outros e das notícias do dia.</p>\n<p class=\"pergunta\">Que tipo de notícia ou situação tem facilidade de roubar a sua compostura e tirar você do eixo?</p>",
+    "taticaHtml": "<p><strong>Heijōshin</strong> (平常心, também lido como <em>heijōshin kore dō</em>) é o conceito clássico de esgrima registrado por mestres como Yagyū Munenori no <em>Heiho Kadensho</em> (Tratado sobre a Arte da Guerra da Família Yagyū). Significa manter exatamente o mesmo estado de espírito equilibrado, sereno e lúcido no meio do combate mortal que se mantém tranquilamente sentado em sua própria casa.</p><p>Não há alteração de pulso por pânico nem embriaguez por vaidade. O guerreiro permanece centrado e pronto.</p>\n<p class=\"fonte-linha\">Fonte: Yagyū Munenori, <em>Heihō Kaden Sho</em> (A Espada da Vida, séc. XVII); princípio de <em>Heijōshin</em> no Budo clássico. Kendo Guide; Yagyu Shinkage-ryu Compendium.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é frieza desumana ou apatia.</strong> Ter heijōshin cristão não é fingir que não sente dor; é ter uma âncora firme na soberania de Deus enquanto a dor passa.</p><p><strong>Não é estoicismo sem Deus.</strong> A nossa paz não vem do poder da mente humana, mas do Espírito Santo que habita em nós.</p><p><strong>Não hesite em buscar ajuda médica e psicológica</strong> se você sofre com crises de pânico, ansiedade generalizada ou transtornos de humor. O cuidado da saúde mental é bênção e dever.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Tu guardarás em perfeita paz aquele cujo propósito está firme, porque em ti confia.”</p><footer>Isaías 26.3 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Não andem ansiosos por coisa alguma, mas em tudo, pela oração e súplicas, e com ação de graças, apresentem seus pedidos a Deus. E a paz de Deus, que excede todo o entendimento, guardará o coração e a mente de vocês em Cristo Jesus.”</p><footer>Filipenses 4.6-7 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>Isaías 26.3 e Filipenses 4.6-7 estabelecem a fundação inabalável do heijōshin do Reino: a <em>perfeita paz</em> não é ausência de problemas; é a presença de Deus guardando como sentinela armada (o termo grego <em>phroureo</em> em Filipenses) a sua mente e o seu coração.</p><p>Quando o mar se agita e o barco balança, Jesus dormia na popa porque sabia quem Ele era e quem governava os ventos.</p><p><strong>E o chão:</strong> se a ansiedade bateu forte hoje e você perdeu a compostura, não se condene. O Senhor conhece a nossa estrutura e sabe que somos pó. Volte para a presença Dele e respire a graça.</p></div>",
+    "cadernoPergunta": "Em qual área de estresse você precisa pedir ao Senhor que estabeleça a perfeita paz hoje?",
+    "placeholder": "Peço a perfeita paz de Deus sobre…",
+    "oracao": "Senhor Jesus, quando o mundo ao redor gritar e tentar me desestruturar, guarda a minha mente na Tua paz. Que o meu coração esteja ancorado na Tua soberania, hoje e sempre. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>heijōshin</em> (平常心) — mente calma e cotidiana mantida inalterada sob pressão extrema de combate; tratado de Yagyū Munenori (<em>Heiho Kadensho</em>). <a href=\"https://en.wikipedia.org/wiki/Heijoshin\">Wikipedia Heijoshin</a> · Kendo Guide.</li><li><strong>Passagens:</strong> Isaías 26.3 e Filipenses 4.6-7, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 29,
+    "tatica": "Kiri-Musubi",
+    "leitura": "ki-ri-mu-su-bi · o cruzamento das lâminas",
+    "lema": "No instante decisivo do encontro, não há espaço para vacilo",
+    "legenda": "Kiri-Musubi (O Cruzamento das Lâminas) × 1 Reis 18.21 e Js 24.15: O instante supremo de decisão irrevogável por servir a Deus sem hesitação.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · encerre a hesitação",
+        "texto": "Identifique aquela decisão espiritual que você vem adiando há meses e tome uma posição firme ao lado da verdade hoje."
+      },
+      {
+        "titulo": "Tarde · fidelidade nos atos",
+        "texto": "Cumpra sua palavra dada mesmo que custe caro ou exija renúncia de conveniências pessoais."
+      },
+      {
+        "titulo": "Noite · renovação do pacto",
+        "texto": "Ore declarando: “Eu e a minha casa serviremos ao Senhor”. Não deixe brechas para o meio-termo na sua caminhada."
+      }
+    ],
+    "reconhecimento": "<p>Viver em cima do muro é o lugar mais perigoso da existência. O indeciso tenta agradar a Deus e ao mundo, e termina rejeitado por ambos e dilacerado por dentro.</p><p>Chega um momento na jornada em que a conversa precisa acabar e a posição precisa ser assumida de vez.</p>\n<p class=\"pergunta\">Que decisão entre seguir a Deus ou agradar aos homens você tem empurrado com a barriga?</p>",
+    "taticaHtml": "<p><strong>Kiri-musubi</strong> (切り結び) é a expressão clássica das antigas tradições de kenjutsu que descreve o exato instante de clímax em que as lâminas de dois combatentes se cruzam e entram em contato direto. Nesse milésimo de segundo não há mais espaço para dúvidas, recuos hesitantes ou cálculos tardios: a intenção, a técnica e a vida convergem num único ponto decisivo.</p><p>Quem hesita no kiri-musubi é cortado imediatamente.</p>\n<p class=\"fonte-linha\">Fonte: <em>kiri-musubi</em> (切り結び), kenjutsu clássico (Yagyū Shinkage-ryū / Ittō-ryū) — o contato e cruzamento das lâminas no ponto crítico de decisão do combate. Koryu Archives; Budo Glossary.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é fanatismo inconsequente.</strong> Tomar posição por Cristo é ato de amor lúcido e compromisso ético, não de agressividade com o próximo.</p><p><strong>Não é agir sem oração prévia.</strong> A decisão firme nasce de raízes profundas na Palavra de Deus, não de impulsos emocionais momentâneos.</p><p><strong>Não confunda firmeza com grosseria.</strong> O guerreiro de Deus é firme na verdade e terno no trato com os outros.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“Elias aproximou-se de todo o povo e disse: “Até quando vocês vão oscilar entre duas opiniões? Se o Senhor é Deus, sigam-no; mas, se Baal é Deus, sigam-no.””</p><footer>1 Reis 18.21 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Se, porém, não lhes agrada servir ao Senhor, escolham hoje a quem irão servir… Mas, eu e a minha família serviremos ao Senhor.”</p><footer>Josué 24.15 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>No Monte Carmelo (1 Reis 18) e em Siquém (Josué 24), a mensagem de Deus aos homens foi um kiri-musubi inegociável: <em>escolham hoje a quem servir</em>. Não existe discipulado morno. Não existe guerreiro com meio pé na luz e meio pé nas trevas.</p><p>Quando você assume publicamente a sua fidelidade a Cristo, o chão se torna firme debaixo dos seus pés.</p><p><strong>E o chão:</strong> se até hoje você vacilou e andou claudicando, o Senhor te chama com graça nesta hora. Dê o passo definitivo hoje; o sangue da cruz garante a sua reconciliação.</p></div>",
+    "cadernoPergunta": "Qual decisão espiritual inadiável você vai firmar hoje diante do Senhor?",
+    "placeholder": "Hoje eu decido de vez…",
+    "oracao": "Senhor Deus, eu renuncio a toda indecisão e tibieza. Eu pertenço a Ti. Não me envergonho do Evangelho e decido, com a minha casa, Te servir e Te honrar enquanto eu tiver fôlego. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>kiri-musubi</em> (切り結び) — o encontro e cruzamento crítico das espadas no momento ápice do confronto marcial. <a href=\"https://www.japanesewiki.com/culture/Kenjutsu.html\">Japanese Wiki Kenjutsu</a> · Koryu Archives.</li><li><strong>Passagens:</strong> 1 Reis 18.21 e Josué 24.15, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  },
+  {
+    "n": 30,
+    "tatica": "Chiburui",
+    "leitura": "chi-bu-ru-i · a limpeza e o retorno à bainha",
+    "lema": "A lâmina limpa volta à bainha: a batalha encerra em reverência ao Soberano",
+    "legenda": "Chiburui e Nōtō (Limpeza e Embainhar) × Salmos 93.1 e 2 Tm 4.7: Limpar a lâmina e guardá-la em reverência ao Rei soberano no fim do combate.",
+    "escolhas": [],
+    "extras": [],
+    "marchaIntro": "",
+    "marcha": [
+      {
+        "titulo": "Manhã · honre a jornada percorrida",
+        "texto": "Agradeça a Deus pelos 30 dias de treino, pelas feridas que sararam e pela fidelidade que te sustentou até aqui."
+      },
+      {
+        "titulo": "Tarde · limpe o coração de toda amargura",
+        "texto": "Perdoe completamente quem te ofendeu ao longo desse período. Guarde a espada na bainha sem sangue de rancor no coração."
+      },
+      {
+        "titulo": "Noite · a reverência final",
+        "texto": "Leia Salmos 93 em voz alta na presença de Deus. Celebre: o mar rugiu, os mares se levantaram — e o Senhor reina sobre tudo."
+      }
+    ],
+    "reconhecimento": "<p>Você chegou ao trigésimo dia. Passou por vales densos, ventos fortes, travas na garganta e combates silenciosos que ninguém viu.</p><p>A luta da vida não termina aqui, mas você já não é o mesmo que começou no dia 1: agora você sabe Quem está no trono e aprendeu a andar com Ele.</p>\n<p class=\"pergunta\">O que mudou em você desde o primeiro dia até hoje — e quem recebe a glória por você ainda estar de pé?</p>",
+    "taticaHtml": "<p><strong>Chiburui</strong> (血振るい) e <strong>Nōtō</strong> (納刀) são os ritos finais e solenes das artes clássicas de saque e espada japonesa (Iaido e Kenjutsu). Após o término do confronto, o espadachim executa um movimento firme e controlado de limpeza da lâmina (<em>chiburui</em>), confere a ausência de ameaças residuais em postura serena e devolve a espada suavemente à sua bainha (<em>nōtō</em>), curvando-se em reverência profunda (<em>rei</em>).</p><p>A espada não foi feita para ficar desembainhada o tempo todo; a verdadeira maestria é saber a hora de recolher o aço e descansar na paz do dever cumprido.</p>\n<p class=\"fonte-linha\">Fonte: <em>chiburui</em> (血振るい) e <em>nōtō</em> (納刀), Iaido clássico — rito de limpeza da lâmina e recolhimento seguro à bainha. All Japan Kendo Federation Iaido Manual; Zen Nihon Iaido Renmei.</p>\n<details class=\"nao\">\n<summary>O que essa tática não significa</summary>\n<div class=\"nao__corpo\"><p><strong>Não é achar que nunca mais haverá lutas.</strong> A vida continua tendo suas tempestades; mas a sua postura agora está ancorada na Rocha.</p><p><strong>Não é vanglória de guerreiro.</strong> O louvor final não vai para a nossa habilidade com a espada, mas unicamente para o Deus que nos sustentou de pé.</p><p><strong>Continue caminhando na Palavra.</strong> Este manual de 30 dias termina, mas o seu relacionamento diário com Cristo dura para a eternidade.</p></div>\n</details>\n<h3 style=\"margin-top:2rem;\">Palavra de comando</h3>\n<figure class=\"versiculo\"><p>“O Senhor reina! Vestiu-se de majestade; o Senhor vestiu-se de majestade e armou-se de poder! O mundo está firme e não se abalará… Mais poderoso do que o estrondo das grandes águas, mais poderoso do que as ondas do mar é o Senhor nas alturas.”</p><footer>Salmos 93.1,4 · NVI</footer></figure>\n<figure class=\"versiculo\"><p>“Combati o bom combate, terminei a corrida, guardei a fé. Agora me está reservada a coroa da justiça, que o Senhor, justo Juiz, me dará naquele dia.”</p><footer>2 Timóteo 4.7-8 · NVI</footer></figure>",
+    "combate": "<p class=\"uso__linha\">Onde a lâmina encosta na sua vida hoje</p>\n<div class=\"correcao\"><p>O Salmo 93 começou este livro e fecha esta caminhada com a verdade que sustenta o universo: <strong>O Senhor reina</strong>. Os mares rugiram, as ondas se levantaram — e continuam bramindo —, mas mais poderoso do que todas as tempestades da sua história é o Senhor nas alturas.</p><p>2 Timóteo 4.7 é a confissão de quem atravessou o vale sem largar a mão de Deus: <em>combati o bom combate, terminei a corrida, guardei a fé</em>.</p><p>A lâmina volta à bainha. A sua alma descansa. O mar ainda ruge lá fora, mas você está seguro nos braços do Rei eterno.</p><p><strong>E o chão:</strong> nas alturas ou nos vales, você nunca esteve só. Ele esteve lá em cada segundo, e continuará com você até o fim dos tempos.</p></div>",
+    "cadernoPergunta": "Qual é a sua oração de gratidão e compromisso ao concluir estes 30 dias com o Senhor?",
+    "placeholder": "Senhor, ao terminar estes 30 dias, eu Te agradeço por…",
+    "oracao": "Senhor Deus Todo-Poderoso, Tu reinas! Obrigado por teres caminhado comigo em cada um destes trinta dias. Quando o mar rugiu, Tua mão me segurou. Eu guardo a espada na bainha e curvo a minha vida diante do Teu trono. Toda honra, glória e louvor sejam Teus para sempre. Amém.",
+    "fontes": "<ul class=\"fontes-dia\"><li><strong>Tática:</strong> <em>chiburui</em> (血振るい) e <em>nōtō</em> (納刀) — rito marcial de limpeza da lâmina e retorno reverente à bainha nas tradições de Iaido e Kenjutsu. <a href=\"https://en.wikipedia.org/wiki/Iaido\">Wikipedia Iaido</a> · All Japan Kendo Federation (ZNKR).</li><li><strong>Passagens:</strong> Salmos 93.1,4 e 2 Timóteo 4.7-8, Nova Versão Internacional, © Biblica, Inc.</li><li><strong>Verificação pendente:</strong> grafia exata dos versículos a conferir contra NVI oficial antes da impressão.</li></ul>"
+  }
+]

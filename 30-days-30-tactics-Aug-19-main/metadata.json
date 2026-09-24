@@ -1,0 +1,6 @@
+{
+  "name": "A Batalha",
+  "description": "Diário de 30 dias de táticas de samurai e Palavra - devocional cristão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
